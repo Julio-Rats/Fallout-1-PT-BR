@@ -1,0 +1,67 @@
+
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Você tem certeza que deseja sair?}
+{1}{}{Versão de demonstração}
+{2}{}{Personagem padrão será usado.}
+{3}{}{Captura de tela salva.}
+{4}{}{"Quick load" carregado com sucesso.}
+{5}{}{"Quick save" salvo com sucesso.}
+{6}{}{Tempo limite da demonstração excedido.}
+{7}{}{Pipboy não está disponível em combate!}
+{8}{}{Erro ao salvar captura de tela.}
+{9}{}{Introdução}
+{10}{}{Novo Jogo}
+{11}{}{Carregar Jogo}
+{12}{}{Créditos}
+{13}{}{Sair}
+{14}{}{Copyright(c) 1997 Interplay Productions. All rights reserved.}
+{15}{}{Pontos de Ação}
+{16}{}{Pontos de Vida}
+{17}{}{A opção de sensor de movimento não está instalada.}
+{18}{}{O sensor de movimento não tem recargas restantes.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Erro ao salvar arquivo de configuração do jogo!}
+{101}{}{Configurações de jogo não foram salvas.}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{Você se sente muito enjoado.}
+{1001}{}{Você se sente muito enjoado, e após vomitar levemente, fica ligeiramente cansado.}
+{1002}{}{Você está muito cansado, o vômito não para, e o seu tempo de recuperação é prejudicado.}
+{1003}{}{Você está tendo uma hemorragia violenta. Você está muito doente, e seu cabelo está caindo.}
+{1004}{}{Você está tendo uma hemorragia violenta e contínua. O vômito está manchado de vermelho por causa do seu sangue. Sua pele está caindo dos seus ossos.}
+{1005}{}{Há sangramento em seus intestinos e você está com diarreia grave. Você se sente inchado e em intensa agonia.}
+{1006}{}{Você morreu de doença de radiação.}
+{1007}{}{Você recebeu uma grande dose de radiação.}
+{1008}{}{O contador Geiger está clicando.}
+{1009}{}{O contador Geiger está clicando descontroladamente.}
+#
+# Message used in actions.c
+#
+{2000}{}{Você não consegue chegar lá.}
+{2001}{}{A fechadura está emperrada.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Você foi envenenado!}
+{3001}{}{Você sofre dano do veneno.}
+#
+# from queue.c
+#
+{4000}{}{Devido ao seu manuseio inepto, o explosivo detona prematuramente.}
+#
+# from combatai.c
+#
+{5000}{}{usa}
+{5001}{}{está sem munição para}
+{5002}{}{recarrega}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Perguntar sobre o quê?}
