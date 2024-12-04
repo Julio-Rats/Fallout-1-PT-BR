@@ -60,25 +60,25 @@
 # Agility
 {205}{}{Coordenação e capacidade de se mover bem. Alta Agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Classe de Armadura, Sequência e muitas habilidades.}
 # Luck
-{206}{}{Destino. Karma. Uma sorte extremamente alta ou baixa afetará o personagem - de alguma forma. Eventos e situações serão alterados pela sorte (ou azar) do seu personagem.}
+{206}{}{Destino. Karma. Uma sorte extremamente alta ou baixa afetará o(a) personagem - de alguma forma. Eventos e situações serão alterados pela sorte (ou azar) do seu/sua personagem.}
 #
 # Derived/Non Derived stats
 #
 # Maximum Hit Points
-{207}{}{Quanto de dano seu personagem pode receber antes de morrer. Se chegar a 0 HP ou menos, você estará morto.}
+{207}{}{Quanto de dano seu/sua personagem pode receber antes de morrer. Se chegar a 0 HP ou menos, você estará morto.}
 # Maximum Action Points
-{208}{}{O número de ações que o personagem pode realizar durante um turno de combate.}
+{208}{}{O número de ações que o(a) personagem pode realizar durante um turno de combate.}
 # Armor Class
-{209}{}{Modifica a chance de acertar esse personagem.}
+{209}{}{Modifica a chance de acertar esse/essa personagem.}
 # Unarmed Damage
-{210}{}{A quantidade de dano bônus que seu personagem causa em combate corpo a corpo.}
-{211}{}{A quantidade de dano bônus que seu personagem causa em combate corpo a corpo.}
+{210}{}{A quantidade de dano bônus que seu/sua personagem causa em combate corpo a corpo.}
+{211}{}{A quantidade de dano bônus que seu/sua personagem causa em combate corpo a corpo.}
 # Carry Weight
-{212}{}{A quantidade máxima de equipamento que seu personagem pode carregar, em libras.}
+{212}{}{A quantidade máxima de equipamento que seu/sua personagem pode carregar, em libras.}
 # Sequence
-{213}{}{Determina quão rapidamente seu personagem pode reagir em um turno de combate.}
+{213}{}{Determina quão rapidamente seu/sua personagem pode reagir em um turno de combate.}
 # Healing Rate
-{214}{}{No final de cada dia, seu personagem cura 1 HP para cada ponto de Taxa de Cura. Quando você descansa, você cura a cada seis horas.}
+{214}{}{No final de cada dia, seu/sua personagem cura 1 HP para cada ponto de Taxa de Cura. Quando você descansa, você cura a cada seis horas.}
 # Critical Chance
 {215}{}{A chance de causar um golpe crítico em combate é aumentada por esta quantidade.}
 {216}{}{Melhores Criticos}
@@ -89,8 +89,8 @@
 {221}{}{Começo do Dano por Eletricidade}
 {222}{}{Começo do Dano por PEM}
 {223}{}{Começo do Dano por Explosão}
-# Radiation Resistance
-{224}{}{A quantidade de radiação à qual você está exposto é reduzida por essa porcentagem. A Resistência à Radiação pode ser modificada pelo tipo de armadura usada e por chems anti-radiação.}
+# Damage Resistance
+{224}{}{Qualquer dano recebido é reduzido por este valor. A Resistência a Dano pode ser aumentada ao usar armaduras.}
 {225}{}{Resistência ao Dano por Laser}
 {226}{}{Resistência ao Dano por Fogo}
 {227}{}{Resistência ao Dano por Plasma}
@@ -98,7 +98,7 @@
 {229}{}{Resistência ao Dano por PEM}
 {230}{}{Resistência ao Dano por Explosão}
 # Radiation Resistance
-{231}{}{A quantidade de radiação à qual você está exposto é reduzida por essa porcentagem. A Resistência à Radiação pode ser modificada pelo tipo de armadura usada e por chems anti-radiação.}
+{231}{}{A quantidade de radiação à qual você está exposto é reduzida por essa porcentagem. A Resistência à Radiação pode ser modificada pelo tipo de armadura usada e por químicos anti-radiação.}
 # Poison Resistance
 {232}{}{Reduz o dano de veneno por esta quantia.}
 {233}{}{Idade}
@@ -133,7 +133,7 @@
 # Unspent Skill Points
 {500}{}{Pontos ganhos ao subir de Nível. Podem ser usados para aumentar uma habilidade em 1% ou uma habilidade de marcação em 2%, por ponto gasto.}
 # Level
-{501}{}{A competência geral do personagem jogador. Uma medida da sua experiência e habilidades.}
+{501}{}{A competência geral do(a) personagem do(a) jogador(a). Uma medida da sua experiência e habilidades.}
 # Experience
 {502}{}{Uma recompensa por completar tarefas específicas ou derrotar inimigos em combate. Mais pontos de experiência são necessários para atingir níveis mais altos.}
 # Reputation

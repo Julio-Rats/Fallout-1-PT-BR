@@ -96,6 +96,6 @@
 {571}{}{Você rouba o %s.}
 {572}{}{Você é pego plantando a %s.}
 {573}{}{Você planta a %s.}
-{590}{}{Você sobrecarregou seu personagem com essa habilidade.  Espere um pouco.}
+{590}{}{Você sobrecarregou seu/sua personagem com essa habilidade.  Espere um pouco.}
 {591}{}{Você esta muito cansado.}
 {592}{}{O esforço poderia matar você.}

@@ -15,8 +15,8 @@
 {108}{}{Bag. Sangrenta}
 {109}{}{Azarado}
 {110}{}{Boa Natureza}
-{111}{}{Dep. de Chems}
-{112}{}{Res. a Chems}
+{111}{}{Dep. a Químicos}
+{112}{}{Res. a Químicos}
 {113}{}{Pessoa Noturna}
 {114}{}{Hábil}
 {115}{}{Dotado}
@@ -34,8 +34,8 @@
 {208}{}{(Bagunça Sangrenta) Por alguma estranha reviravolta do destino, as pessoas ao seu redor morrem de forma violenta. Você sempre vê a pior forma de uma pessoa morrer.}
 {209}{}{A parte boa é que todos ao seu redor têm mais falhas críticas no combate, a parte ruim é que você também tem!}
 {210}{}{Você estudou habilidades menos combativas enquanto crescia. Habilidades de combates começam em níveis mais baixo, mas 1º Socorros, Medicina, Discurso e Negociação são substancialmente melhoradas.}
-{211}{}{(Dependência de Químicos) Você sente mais facilmente a necessidade de químicos. Sua chance de desejar químicos é o dobro do normal, mas você se recupera mais rápido dos efeitos negativos deles.}
-{212}{}{(Resistência a Químicos) Químicos só te afetam metade do tempo normal, mas sua chance de desejá-los é também apenas 50% do normal.}
+{211}{}{(Dependência a Químicos) Você sente mais facilmente a necessidade de químicos. Sua chance de viciar em químicos é o dobro do normal, mas você se recupera mais rapidamente dos efeitos negativos deles.}
+{212}{}{(Resistência a Químicos) Químicos só te afetam metade do tempo normal, mas sua chance de ficar viciado é também apenas 50% do normal.}
 {213}{}{Como uma pessoa noturna, você fica mais acordado quando o sol se põe. Sua Inteligência e Percepção são melhoradas à noite, mas diminuídas durante o dia.}
 {214}{}{Como você dedicou mais tempo ao aprimoramento das suas habilidades, você começa com níveis melhores de hab. Porém você não ganha tantas habilidades extras. Você ganhará um benefícios a cada quatro níveis.}
 {215}{}{Você tem mais habilidades inatas do que a maioria. Suas estatísticas primárias são +1 em cada uma, mas você perde -10% em todas as habilidades no início e recebe 5 pontos de habilidade a menos por nível.}

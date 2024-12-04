@@ -24,13 +24,13 @@
 {113}{}{Nível:}
 {114}{}{Exp:}
 {115}{}{Prox. Nível:}
-{116}{}{PTS DO PERS.}
+{116}{}{PTS DE PERS.}
 {117}{}{HABILIDADES}
 {118}{}{Você deve usar todos os pontos de}      # 1
 {119}{}{personagem antes de começar o jogo!}    # 2
 #
-{120}{}{Pontos do Personagem}
-{121}{}{Quantia de pontos do personagem livres que podem ser adicionados a uma das estatística básicas.}
+{120}{}{Pontos de Personagem}
+{121}{}{Quantia de pontos de personagem livres que podem ser adicionados a uma das estatística básicas.}
 {122}{}{Proximo Nível}
 {123}{}{A quantia de pontos de experiência necessários pra promover pro próximo nível.}
 {124}{}{Benefícios}
@@ -69,8 +69,8 @@
 {155}{}{ESCOLHA UMA NOVA HABILIDADE DE IDENTIFICAÇÃO}
 {156}{}{TRAÇOS}
 #
-{157}{}{Todas as estat. devem estar entre}  # 1
-{158}{}{1 e 10 antes de começar o jogo!}    # 2
+{157}{}{Todas as estatística devem estar entre}  # 1
+{158}{}{1 e 10 antes de começar o jogo!}         # 2
 
 
 #
