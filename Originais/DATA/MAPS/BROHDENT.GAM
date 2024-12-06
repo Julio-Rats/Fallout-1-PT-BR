@@ -1,0 +1,7 @@
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+Door_Warning                      :=0;  // 0

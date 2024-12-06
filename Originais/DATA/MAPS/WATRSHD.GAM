@@ -1,0 +1,17 @@
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+NORTH_BEFORE    :=0;            //      (0)
+SOUTH_BEFORE    :=0;            //      (1)
+EAST_BEFORE     :=0;            //      (2)
+WEST_BEFORE     :=0;            //      (3)
+COUNT           :=0;            //      (4)
+TOUCHING        :=0;            //      (5)
+GHOUL_DOOR_OPEN :=0;            //      (6)
+MUTANTS_HOSTILE :=0;            //      (7)
+PLACEHOLDER1    :=0;            //      (8)
+PLACEHOLDER2    :=0;            //      (9)
+INVADED         :=0;            //      (10)  //map been invaded

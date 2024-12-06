@@ -1,0 +1,4 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+Overseer_ptr            :=0;    // (0) Referenced pointer to the Overseer, endgame.

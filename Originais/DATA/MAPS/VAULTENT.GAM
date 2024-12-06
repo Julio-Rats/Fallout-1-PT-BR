@@ -1,0 +1,12 @@
+
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GAME_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+INVADED         :=0;          //      (0)  // map been invaded
+PADD1           :=0;          //      (1)
+PADD2           :=0;          //      (2)
+PADD3           :=0;          //      (3)

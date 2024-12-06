@@ -1,0 +1,17 @@
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+EXTRA           :=0;            //      (0)   has the player been warned to put his weapon away?
+JERNEAR         :=0;            //      (1)
+FIELDOFF        :=0;            //      (2)
+SECRET_DOOR     :=0;            //      (3)   spatial trigger to open secret door
+PLACEHOLDER     :=0;            //      (4)
+TOUCHING        :=0;            //      (5)
+Pys_Field_Status        :=0;    //      6
+Pris_Field_Status       :=0;    //      7
+PLACEHOLDER1    :=0;            //      (8)
+PLACEHOLDER2    :=0;            //      (9)
+INVADED         :=0;            //      (10)  //have i placed critters here

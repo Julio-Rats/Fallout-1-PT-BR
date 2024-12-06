@@ -1,0 +1,9 @@
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+REFRIG_RAID     :=0;            //      (0)   has the player messed with raiders refrig?
+GAVE_EXP        :=0;            //      (1)   given experience before
+Openning_Door   :=0;            //      (2)

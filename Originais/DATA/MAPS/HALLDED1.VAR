@@ -1,0 +1,12 @@
+
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GAME_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+REWARD_ONE                :=0;       //  (0)   // These vars are for communication with.
+REWARD_TWO                :=0;       //  (1)   // Garret about the reward player should recieve.
+SET_GONE                  :=0;       //  (2)   // Is Set gone ...must remove on map exit.
+SET_DEAD                  :=0;       //  (3)   // Is Set dead ...then genghouls check this.

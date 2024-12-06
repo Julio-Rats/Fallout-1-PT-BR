@@ -1,0 +1,7 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+IsMommyDead		:= 0;					// (0) Is the Mommy DeathClaw dead or alive.
+RoamingCount	:= 0;					// (1) How many roamers are there currently.
+EggCount		:= 4;					// (2) The number of DeathClaw eggs.
+NewCount		:= 0;					// (3) The number of new roaming.

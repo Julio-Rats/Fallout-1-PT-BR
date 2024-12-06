@@ -1,0 +1,4 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+Used_Rope            :=0;               // (0)

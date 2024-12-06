@@ -1,0 +1,17 @@
+
+ // Comments
+
+MAP_GLOBAL_VARS:
+//GLOBAL                                NUMBER
+
+STAGE           :=0;            //      (0)   has the player been warned to put his weapon away?
+FELT_REVULSION  :=0;            //      (1)
+RESET           :=0;            //      (2)   reset for corridor of revulsion
+PLACED          :=0;            //      (3)   placed mutants
+CALLED          :=0;            //      (4)   has a minion been called by the master
+TOUCHING        :=0;            //      (5)
+PLACEHOLDER1    :=0;            //      (6)
+PLACEHOLDER2    :=0;            //      (7)
+PLACEHOLDER3    :=0;            //      (8)
+PLACEHOLDER4    :=0;            //      (9)
+INVADED         :=0;            //      (10)  //have i placed critters here

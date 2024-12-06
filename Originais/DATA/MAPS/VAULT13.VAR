@@ -1,0 +1,7 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+SecDoor_open              :=0;      //  (0)
+armory_access             :=0;      //  (1)
+revolting                 :=1;      //  (2)
+traitor                   :=0;      //  (3)

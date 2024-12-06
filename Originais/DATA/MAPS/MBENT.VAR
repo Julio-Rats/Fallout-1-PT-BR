@@ -1,0 +1,5 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+radio_trick               :=0;      //  (0) Tells if the gate guards have been
+                                    //      tricked with the radio.

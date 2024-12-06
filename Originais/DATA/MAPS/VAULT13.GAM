@@ -1,0 +1,9 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+SecDoor_open            := 0;           // (0)
+armory_access           := 0;           // (1)
+revolting               := 1;           // (2)
+dummyvar                := 0;           // (3)
+map_runs                := 0;           // (4)
+rebels_leave_date       := 100;         // (5)

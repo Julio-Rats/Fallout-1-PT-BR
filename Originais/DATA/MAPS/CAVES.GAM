@@ -1,0 +1,4 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+Only_Once            := 0;           // (0)

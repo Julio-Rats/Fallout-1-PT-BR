@@ -1,0 +1,6 @@
+MAP_GLOBAL_VARS:
+//MAP VAR                              NUMBER
+
+bar_fight                 :=0;      //  (0) Tells if a bar fight was started in the Skum Pitt.
+dude_helped_fight         :=0;      //  (1) Tells if the dude helped fight the Skulz in the bar.
+got_trophy                :=0;      //  (2) Set if dude steals Neal's trophy.
