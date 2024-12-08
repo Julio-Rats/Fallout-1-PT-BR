@@ -8,7 +8,7 @@
 {4}{}{IN}
 {5}{}{AG}
 {6}{}{SO}
-{7}{}{Pts de Vida}
+{7}{}{Vida}
 {8}{}{Classe Arm.}
 {9}{}{  Normal}
 {10}{}{  Laser}
@@ -28,6 +28,6 @@
 {24}{}{Desarmado:}
 {25}{}{Você não pode pegar aquilo. Você esta na sua capacidade máxima de peso.}
 {26}{}{Não há espaço restante para aquele item.}
-{27}{}{OK, essa é uma boa negociação.}
+{27}{}{Ok, essa é uma boa negociação.}
 {28}{}{Não, sua oferta não é boa o bastante.}
 {29}{}{Você ganha %d pontos de experiência por usar sua habilidade de roubar com sucesso.}

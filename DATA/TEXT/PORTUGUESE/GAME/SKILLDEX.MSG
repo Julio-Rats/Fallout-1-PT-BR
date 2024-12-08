@@ -2,7 +2,7 @@
 #   Messages from skilldex.c
 #
 {100}{}{HABILIDADES}
-{101}{}{FECHAR}
+{101}{}{CANCELAR}
 {102}{}{FURTIVO}
 {103}{}{GAZUA}
 {104}{}{ROUBAR}
@@ -11,4 +11,3 @@
 {107}{}{MEDICINA}
 {108}{}{CIÊNCIA}
 {109}{}{REPARO}
-

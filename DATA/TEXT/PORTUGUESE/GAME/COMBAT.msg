@@ -32,13 +32,13 @@
 {213}{}{sua arma foi destruída}
 {214}{}{sua arma caiu}
 {215}{}{perdeu seu próximo turno}
-{216}{}{acertou a si próprio}
+{216}{}{acertou a si mesmo}
 {217}{}{perdeu o resto da sua munição}
 {218}{}{disparou um tiro que não chegou ao alvo}
-{219}{}{feriu a si próprio}
+{219}{}{feriu a si mesmo}
 {220}{}{acertou aleatoriamente}
 {221}{}{incapacitou um membro aleatório}
-{222}{}{crivado com fragmentos}
+{222}{}{atingido com fragmentos}
 #
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
@@ -58,13 +58,13 @@
 {263}{}{sua arma foi destruída}
 {264}{}{sua arma caiu}
 {265}{}{perdeu seu próximo turno}
-{266}{}{atingiu a si mesma}
+{266}{}{acertou a si mesma}
 {267}{}{perdeu o resto da munição dela}
 {268}{}{disparou um tiro que não chegou ao alvo}
 {269}{}{feriu a si mesma}
 {270}{}{acertou aleatoriamente}
 {271}{}{incapacitou um membro aleatório}
-{272}{}{crivada com fragmentos}
+{272}{}{atingida com fragmentos}
 #
 # Combat Flag Strings (all of these happen to a male)
 #
@@ -84,13 +84,13 @@
 {313}{}{sua arma foi destruída}
 {314}{}{sua arma caiu}
 {315}{}{perdeu seu próximo turno}
-{316}{}{atingiu a si próprio}
+{316}{}{acertou a si mesmo}
 {317}{}{perdeu o resto da sua munição}
 {318}{}{disparou um tiro que não chegou ao alvo}
-{319}{}{feriu a si próprio}
+{319}{}{feriu a si mesmo}
 {320}{}{acertou aleatoriamente}
 {321}{}{incapacitou um membro aleatório}
-{322}{}{crivado com fragmentos}
+{322}{}{atingido com fragmentos}
 #
 # Combat Flag Strings (all of these happen to a female)
 #
@@ -110,13 +110,13 @@
 {413}{}{sua arma foi destruída}
 {414}{}{sua arma caiu}
 {415}{}{perdeu seu próximo turno}
-{416}{}{atingiu a si mesma}
+{416}{}{acertou a si mesma}
 {417}{}{perdeu o resto da munição dela}
 {418}{}{disparou um tiro que não chegou ao alvo}
 {419}{}{feriu a si mesma}
 {420}{}{acertou aleatoriamente}
 {421}{}{incapacitou um membro aleatório}
-{422}{}{crivada com fragmentos}
+{422}{}{atingida com fragmentos}
 #
 # Miscellaneous combat messages (all of these happen to you, the male player)
 # Note: the first %s will be replaced by the value of line 506, which
@@ -128,19 +128,19 @@
 #          in the 1000's in this file, with the exception of line 509
 #          where the second %s is the name of another creature
 {506}{}{Você}
-{509}{}{Oops! %s foi atingido em vez do %s!}
-{511}{}{%s foi atingido criticamente no(s)/na %s com %d pontos de dano}
-{512}{}{%s foi atingido no(s)/na %s com %d pontos de dano}
+{509}{}{Oops! %s foi atingido em vez de %s!}
+{511}{}{%s foi atingido criticamente no(a) %s com %d pontos de dano}
+{512}{}{%s foi atingido no(a) %s com %d pontos de dano}
 {513}{}{%s foi atingido com %d pontos de dano}
 {514}{}{%s errou criticamente}
 {515}{}{%s errou}
 {520}{}{%s foi atingido criticamente com %d pontos de dano}
-{521}{}{%s foi atingido criticamente no(s)/na %s com 1 ponto de dano}
-{522}{}{%s foi atingido no(s)/na %s com 1 ponto de dano}
+{521}{}{%s foi atingido criticamente no(a) %s com 1 ponto de dano}
+{522}{}{%s foi atingido no(a) %s com 1 ponto de dano}
 {523}{}{%s foi atingido com 1 ponto de dano}
 {524}{}{%s foi atingido com 1 ponto de dano}
-{525}{}{%s foi atingido criticamente no(s)/na %s sem nenhum dano}
-{526}{}{%s foi atingido no(s)/na %s sem nenhum dano}
+{525}{}{%s foi atingido criticamente no(a) %s sem nenhum dano}
+{526}{}{%s foi atingido no(a) %s sem nenhum dano}
 {527}{}{%s foi atingido sem nenhum dano}
 {528}{}{%s foi atingido criticamente sem nenhum dano}
 {533}{}{%s errou criticamente e tomou 1 ponto de dano}
@@ -157,18 +157,18 @@
 #          where the second %s is the name of another creature
 {556}{}{Você}
 {559}{}{Oops! %s foi atingida em vez de %s!}
-{561}{}{%s foi atingida criticamente no(s)/na %s com %d pontos de dano}
-{562}{}{%s foi atingida no(s)/na %s com %d pontos de dano}
+{561}{}{%s foi atingida criticamente no(a) %s com %d pontos de dano}
+{562}{}{%s foi atingida no(a) %s com %d pontos de dano}
 {563}{}{%s foi atingida com %d pontos de dano}
 {564}{}{%s errou criticamente}
 {565}{}{%s errou}
 {570}{}{%s foi atingida criticamente com %d pontos de dano}
-{571}{}{%s foi atingida criticamente no(s)/na %s com 1 ponto de dano}
-{572}{}{%s foi atingida no(s)/na %s com 1 ponto de dano}
+{571}{}{%s foi atingida criticamente no(a) %s com 1 ponto de dano}
+{572}{}{%s foi atingida no(a) %s com 1 ponto de dano}
 {573}{}{%s foi atingida com 1 ponto de dano}
 {574}{}{%s foi atingida criticamente com 1 ponto de dano}
-{575}{}{%s foi atingida criticamente no(s)/na %s sem nenhum dano}
-{576}{}{%s foi atingida no(s)/na %s sem nenhum dano}
+{575}{}{%s foi atingida criticamente no(a) %s sem nenhum dano}
+{576}{}{%s foi atingida no(a) %s sem nenhum dano}
 {577}{}{%s foi atingida sem nenhum dano}
 {578}{}{%s foi atingida criticamente sem nenhum dano}
 {583}{}{%s errou criticamente e tomou 1 ponto de dano}
@@ -183,18 +183,18 @@
 #
 {608}{}{Oops! %s foi atingido em vez de você!}
 {609}{}{Oops! %s foi atingido em vez de %s!}
-{611}{}{%s foi atingido criticamente no(s)/na %s com %d pontos de dano}
-{612}{}{%s foi atingido no(s)/na %s com %d pontos de dano}
+{611}{}{%s foi atingido criticamente no(a) %s com %d pontos de dano}
+{612}{}{%s foi atingido no(a) %s com %d pontos de dano}
 {613}{}{%s foi atingido com %d pontos de dano}
 {614}{}{%s errou criticamente}
 {615}{}{%s errou}
 {620}{}{%s foi atingido criticamente com %d pontos de dano}
-{621}{}{%s foi atingido criticamente no(s)/na %s com 1 ponto de dano}
-{622}{}{%s foi atingido no(s)/na %s com 1 ponto de dano}
+{621}{}{%s foi atingido criticamente no(a) %s com 1 ponto de dano}
+{622}{}{%s foi atingido no(a) %s com 1 ponto de dano}
 {623}{}{%s foi atingido com 1 ponto de dano}
 {624}{}{%s foi atingido criticamente com 1 ponto de dano}
-{625}{}{%s foi atingido criticamente no(s)/na %s sem nenhum dano}
-{626}{}{%s foi atingido no(s)/na %s sem nenhum dano}
+{625}{}{%s foi atingido criticamente no(a) %s sem nenhum dano}
+{626}{}{%s foi atingido no(a) %s sem nenhum dano}
 {627}{}{%s foi atingido sem nenhum dano}
 {628}{}{%s foi atingido criticamente sem nenhum dano}
 {633}{}{%s errou criticamente e tomou 1 ponto de dano}
@@ -209,18 +209,18 @@
 #
 {708}{}{Oops! %s foi atingida em vez de você!}
 {709}{}{Oops! %s foi atingida em vez de %s!}
-{711}{}{%s foi atingida criticamente no(s)/na %s com %d pontos de dano}
-{712}{}{%s foi atingida no(s)/na %s com %d pontos de dano}
+{711}{}{%s foi atingida criticamente no(a) %s com %d pontos de dano}
+{712}{}{%s foi atingida no(a) %s com %d pontos de dano}
 {713}{}{%s foi atingida com %d pontos de dano}
 {714}{}{%s errou criticamente}
 {715}{}{%s errou}
 {720}{}{%s foi atingida criticamente com %d pontos de dano}
-{721}{}{%s foi atingida criticamente no(s)/na %s com 1 ponto de dano}
-{722}{}{%s foi atingida no(s)/na %s com 1 ponto de dano}
+{721}{}{%s foi atingida criticamente no(a) %s com 1 ponto de dano}
+{722}{}{%s foi atingida no(a) %s com 1 ponto de dano}
 {723}{}{%s foi atingida com 1 ponto de dano}
 {724}{}{%s foi atingida criticamente com 1 ponto de dano}
-{725}{}{%s foi atingida criticamente no(s)/na %s sem nenhum dano}
-{726}{}{%s foi atingida no(s)/na %s sem nenhum dano}
+{725}{}{%s foi atingida criticamente no(a) %s sem nenhum dano}
+{726}{}{%s foi atingida no(a) %s sem nenhum dano}
 {727}{}{%s foi atingida sem nenhum dano}
 {728}{}{%s foi atingida criticamente sem nenhum dano}
 {733}{}{%s errou criticamente e tomou 1 ponto de dano}
@@ -236,7 +236,7 @@
 {1113}{}{torso}
 {1114}{}{perna direita}
 {1115}{}{perna esquerda}
-{1116}{}{olhos}
+{1116}{}{olho}
 {1117}{}{virilha}
 {1118}{}{não-nomeado}
 #
@@ -248,7 +248,7 @@
 {1153}{}{torso}
 {1154}{}{perna dianteira direita}
 {1155}{}{perna dianteira esquerda}
-{1156}{}{olhos}
+{1156}{}{olho}
 {1157}{}{úbere}
 {1158}{}{não-nomeado}
 #
@@ -260,7 +260,7 @@
 {1163}{}{corpo}
 {1164}{}{pata dianteira}
 {1165}{}{pata dianteira}
-{1166}{}{olhos}
+{1166}{}{olho}
 {1167}{}{virilha}
 {1168}{}{não-nomeado}
 #
@@ -284,7 +284,7 @@
 {1183}{}{torso}
 {1184}{}{perna direita}
 {1185}{}{perna esquerda}
-{1186}{}{olhos}
+{1186}{}{olho}
 {1187}{}{virilha}
 {1188}{}{não-nomeado}
 #
@@ -296,7 +296,7 @@
 {1193}{}{corpo}
 {1194}{}{perna direita}
 {1195}{}{perna esquerda}
-{1196}{}{olhos}
+{1196}{}{olho}
 {1197}{}{virilha}
 {1198}{}{não-nomeado}
 #
@@ -308,7 +308,7 @@
 {1213}{}{torso}
 {1214}{}{perna direita}
 {1215}{}{perna esquerda}
-{1216}{}{olhos}
+{1216}{}{olho}
 {1217}{}{virilha}
 {1218}{}{não-nomeado}
 #
@@ -320,7 +320,7 @@
 {1223}{}{carapaça}
 {1224}{}{patas dianteiras}
 {1225}{}{patas traseiras}
-{1226}{}{olhos}
+{1226}{}{olho}
 {1227}{}{cérebro}
 {1228}{}{não-nomeado}
 #
@@ -344,7 +344,7 @@
 {1243}{}{corpo}
 {1244}{}{perna direita}
 {1245}{}{perna esquerda}
-{1246}{}{olhos}
+{1246}{}{olho}
 {1247}{}{virilha}
 {1248}{}{não-nomeado}
 #
@@ -356,7 +356,7 @@
 {1253}{}{corpo}
 {1254}{}{perna direita}
 {1255}{}{perna esquerda}
-{1256}{}{olhos}
+{1256}{}{olho}
 {1257}{}{virilha}
 {1258}{}{não-nomeado}
 #
@@ -368,7 +368,7 @@
 {1273}{}{torso}
 {1274}{}{perna direita}
 {1275}{}{perna esquerda}
-{1276}{}{olhos}
+{1276}{}{olho}
 {1277}{}{virilha}
 {1278}{}{não-nomeado}
 #
@@ -380,7 +380,7 @@
 {1463}{}{torso}
 {1464}{}{perna direita}
 {1465}{}{perna esquerda}
-{1466}{}{olhos}
+{1466}{}{olho}
 {1467}{}{virilha}
 {1468}{}{não-nomeado}
 #
@@ -392,7 +392,7 @@
 {1493}{}{torso}
 {1494}{}{perna direita}
 {1495}{}{perna esquerda}
-{1496}{}{olhos}
+{1496}{}{olho}
 {1497}{}{virilha}
 {1498}{}{não-nomeado}
 #
@@ -404,7 +404,7 @@
 {1503}{}{frame}
 {1504}{}{???}
 {1505}{}{???}
-{1506}{}{olhos}
+{1506}{}{olho}
 {1507}{}{CPU}
 {1508}{}{não-nomeado}
 #
@@ -416,7 +416,7 @@
 {1513}{}{torso}
 {1514}{}{perna direita}
 {1515}{}{perna esquerda}
-{1516}{}{olhos}
+{1516}{}{olho}
 {1517}{}{virilha}
 {1518}{}{não-nomeado}
 #
@@ -428,7 +428,7 @@
 {1523}{}{abdome}
 {1524}{}{pernas}
 {1525}{}{asas}
-{1526}{}{olhos}
+{1526}{}{olho}
 {1527}{}{meta-tórax}
 {1528}{}{não-nomeado}
 #
@@ -464,7 +464,7 @@
 {1553}{}{corpo}
 {1554}{}{perna direita}
 {1555}{}{perna esquerda}
-{1556}{}{olhos}
+{1556}{}{olho}
 {1557}{}{virilha}
 {1558}{}{não-nomeado}
 #
@@ -508,21 +508,21 @@
 {5020}{}{ tirando-lhe o ar, ele desaba no chão fora de combate}
 {5021}{}{. Infelizmente, sua espinha agora está claramente visível pela frente}
 {5022}{}{ causando um grande dano em sua perna}
-{5023}{}{, derrubando-o no chão como um pino de boliche em uma partida de liga}
-{5024}{}{, jogando-o ao chão e inutilizando aquela perna}
+{5023}{}{, derrubando no chão como um pino de boliche em uma partida de liga}
+{5024}{}{, jogando ao chão e inutilizando aquela perna}
 {5025}{}{, esmagando o joelho para a cidade vizinha. Ele cai}
 {5026}{}{. A dor intensa de perder uma perna o faz desistir}
 {5027}{}{ infligindo alguma dor extra}
 {5028}{}{ causando cegueira, infelizmente para ele}
 {5029}{}{, e sem proteção ali, causando dor séria}
-{5030}{}{, e cegando-o com um golpe atordoante}
+{5030}{}{, e cegando com um golpe atordoante}
 {5031}{}{. A perda de um olho é demais para ele, e ele cai no chão}
 {5032}{}{, infelizmente, ele está ocupado demais sentindo o ar fresco no cérebro para notar a morte se aproximando}
 {5033}{}{. Ai! Isso deve ter doído}
 {5034}{}{, e ele não está usando um protetor genital, também}
 {5035}{}{ e sem proteção, ele cai gemendo de agonia}
 {5036}{}{. A dor é demais para ele, e ele colapsa como um boneco de pano}
-{5037}{}{. Ele murmura "Mamãe", enquanto seus olhos se reviram para o fundo da cabeça}
+{5037}{}{. Ele murmura "Mamãe", enquanto seus olho se reviram para o fundo da cabeça}
 #
 # series 5100 - women
 #
@@ -549,8 +549,8 @@
 {5120}{}{ tirando-lhe o ar, ela desaba no chão}
 {5121}{}{. Infelizmente, seus órgãos principais estão expostos à luz}
 {5122}{}{ causando um grande dano em sua perna}
-{5123}{}{, derrubando-a como um encontro ruim}
-{5124}{}{, derrubando-a e inutilizando aquela perna}
+{5123}{}{, derrubando como um encontro ruim}
+{5124}{}{, derrubando e inutilizando aquela perna}
 {5125}{}{, esmagando o joelho para a cidade vizinha. Ela toma o caminho rápido para o chão}
 {5126}{}{. Ela grita de dor pela perna quebrada}
 {5127}{}{ infligindo alguma dor extra}
@@ -560,7 +560,7 @@
 {5131}{}{. Ela desmaia pelo golpe cegante}
 {5132}{}{, infelizmente, ela não tem tempo de rezar para seus deuses antes de encontrá-los}
 {5133}{}{. Ela toma isso como um homem. Ou seja, dói}
-{5134}{}{, derrubando-a no chão}
+{5134}{}{, derrubando no chão}
 {5135}{}{. Seus dias férteis estão no fim enquanto ela desaba em um montinho sem vida}
 #
 # series 5200 - children
@@ -586,7 +586,7 @@
 {5218}{}{. A jovem criança olha para cima e começa a chorar}
 {5219}{}{, o que cega a juventude}
 {5220}{}{, esmagando o nariz juvenil}
-{5221}{}{. Um corte aparece acima dos olhos e o sangue começa a jorrar}
+{5221}{}{. Um corte aparece acima dos olho e o sangue começa a jorrar}
 {5222}{}{, o que abre um olho como uma uva explodindo. A criança parece perplexa}
 {5223}{}{ causando cegueira. A jovem criança cai no chão}
 {5224}{}{, o golpe continua até o pequeno cérebro}
@@ -605,7 +605,7 @@
 {5307}{}{, atingindo um nervo e forçando o gigante a segurar o braço de dor}
 {5308}{}{. O golpe quebra o cotovelo e provavelmente não deve ter sido nada agradável}
 {5309}{}{, quebrando o braço grosso e espalhando sangue mutante pelo chão}
-{5310}{}{, fazendo o gigante vacilar por um momento e então cair como uma árvore pobre}
+{5310}{}{, fazendo o gigante vacilar por um momento e então cai como uma árvore pobre}
 {5311}{}{, e galões de vísceras espirram para o chão}
 {5312}{}{, fazendo o gigante voar para o chão}
 {5313}{}{. O mutante vacila e cai, sua perna mal conseguindo sustentá-lo}
@@ -616,7 +616,7 @@
 {5318}{}{, quase cegando o mutante, mas desequilibrando-o}
 {5319}{}{. O mutante cego vacila para trás, despreparado para o próximo ataque}
 {5320}{}{, cegando o mutante agora inconsciente}
-{5321}{}{. Os olhos do mutante brilham por um momento, e então a luz se apaga - permanentemente}
+{5321}{}{. Os olho do mutante brilham por um momento, e então a luz se apaga - permanentemente}
 #
 # series 5400 - Ghouls
 #
@@ -639,7 +639,7 @@
 {5504}{}{, seriamente ferindo a vaca mutante}
 {5505}{}{, facilmente penetrando o couro grosso da fera gigante}
 {5506}{}{, penetrando direto através de ambos os corações da vaca mutante}
-{5507}{}{, cegando ambos os pares de olhos com um único golpe}
+{5507}{}{, cegando ambos os pares de olho com um único golpe}
 {5508}{}{, cegando ambas as cabeças e atordoando a vaca mutante}
 {5509}{}{, cegando completamente o Brahmin e nocauteando-o}
 {5510}{}{, o grande bovino mutante cambaleia por um momento}
@@ -759,7 +759,7 @@
 #
 {6300}{}{. Até essa besta parece afetada por esse ataque atordoante}
 {6301}{}{, deslizando pelas enormes garras para atingir o monstro. O Deathclaw treme e rosna}
-{6302}{}{. O resultado é um dano massivo nos olhos do Deathclaw}
+{6302}{}{. O resultado é um dano massivo nos olho do Deathclaw}
 #
 # series 6400 - The Master
 #
@@ -793,7 +793,7 @@
 {6517}{}{. A dor da sua perna quebrada te manda para a inconsciência.}  
 {6518}{}{. O golpe doloroso faz você se contrair, mas não faz mais nada.}  
 {6519}{}{. Infelizmente para você, ele também causa perda imediata da visão.}  
-{6520}{}{. Você leva um momento para limpar o sangue dos seus olhos.}  
+{6520}{}{. Você leva um momento para limpar o sangue dos seus olho.}  
 {6521}{}{, escorregando pela sua armadura. Você fica paralisado, percebendo que não pode mais ver.}  
 {6522}{}{. Você sente uma sensação estranha na sua cabeça. Você percebe que é a morte cerebral iminente.}  
 {6523}{}{, fazendo você se encolher.}  

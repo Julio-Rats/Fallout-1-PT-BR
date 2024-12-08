@@ -124,8 +124,8 @@
 #
 # Use Container text
 #
-{485}{}{Você vasculha o %s.}
-{486}{}{Você fecha o %s.}
+{485}{}{Você vasculha %s.}
+{486}{}{Você fecha %s.}
 {487}{}{Está trancado.}     # new
 
 #
@@ -133,7 +133,7 @@
 #
 {490}{}{Você vê: %s.}
 {491}{}{Você vê um morto: %s.}
-{492}{}{Você vê os restos do: %s.}
+{492}{}{Você vê os restos do(a): %s.}
 {493}{}{Você não vê nada fora do comum.}
 
 #
@@ -202,7 +202,7 @@
 {621}{}{%s você ganha %d pontos de experiência.}
 {622}{}{Por derrotar seus inimigos, }   # 622-626 prepend to line 621
 {623}{}{Por eliminar seus oponentes, }
-{624}{}{Você é vitorioso(a) no combate, }
+{624}{}{Você foi vitorioso(a) no combate, }
 {625}{}{Por esmagar seus inimigos, }
 {626}{}{Por destruir seus inimigos sem levar um arranhão, }
 

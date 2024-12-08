@@ -7,7 +7,7 @@ JulioRats
 
 #PROGRAMAÇÃO
 
-@Programadores-Chefe
+@Programadores Chefes
 Tim Cain
 Chris Jones
 
@@ -19,7 +19,7 @@ Robert Hertenstein 2
 Jess Heinig
 Jason Taylor
 
-@Programador do Mac
+@Programador para Mac
 Tim Hume
 
 @Programação Adicional De
@@ -70,7 +70,7 @@ Erik Jamison
 Helena Wickberg
 James Doyle (Apples Animation)
 
-@Modelador em Barro
+@Modelador 3D
 Scott Rodenhizer
 
 @Artista Conceitual
@@ -359,7 +359,7 @@ Max o Cachorro
 
 "Maybe"
 @Executado por Ink Spots
-@Courtesia da MCA Records
+@Cortesia da MCA Records
 @Por Arranjo com os Mercados Especiais de Musica da Universal, Inc.
 
 "MAYBE"
@@ -395,15 +395,15 @@ Thom Dohner
 
 
 
-@Obrigados para: Scott Everts por contribuir acima e além do
+@Agradecimentos para: Scott Everts por contribuir acima e além do
 @chamado do dever para o Arquivo de Citações, Bomberman, Quake,
 @Diablo, Warcraft II, varias trilhas de filmes, Brian Eno,
 @a geladeira de soda (obrigado Gus & Rusty!), o Espirito de Natal
 @(Vai Papai Noel!), Demo o gato, Nicol, Tracy, Mary & Adam, Lisa
 @(por suporte moral), Jamal, Mae do T-Ray, os dois Donalds,
-@Teresa Brooks, Zeb Cook, Chris Avellone, Dinheiro do Almoco, O Patio
-@do Almoco, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
-@Arquivos-X, Xena, Buffy, Os Simpsons, Plantao Medico, Jeepin' e
+@Teresa Brooks, Zeb Cook, Chris Avellone, Dinheiro do Almoço, O Patio
+@do Almoço, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
+@Arquivos-X, Xena, Buffy, Os Simpsons, Plantão Medico, Jeepin' e
 @ao Cao Falador do Ultimo Minuto por achar aquele maldito bug!
 
 @Agradecimentos especial aos membros do quadro de boletins da
@@ -417,7 +417,7 @@ Thom Dohner
 
 
 
-@É isso e tudo!
+@É isso é tudo!
 
 
 
@@ -435,8 +435,8 @@ Thom Dohner
 
 
 
-@Fallout foi trazido a você pela Interplay Productions,
-@Time Fallout é a letra Q.
+@Fallout foi trazido por JulioRats,
+@github.com/Julio-Rats
 
 
 

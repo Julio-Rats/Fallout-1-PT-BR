@@ -38,8 +38,8 @@
 {117}{}{VOLUME DO DISCURSO}
 {118}{}{NÍVEL DO BRILHO}
 {119}{}{SENSITIVIDADE DO MOUSE}
-{120}{}{PADRAO}
-{121}{}{FECHAR}
+{120}{}{PADRÃO}
+{121}{}{CANCELAR}
 {122}{}{Afeta a velocidade do jogador}
 {123}{}{Discurso do Pipboy}
 #
@@ -55,9 +55,9 @@
 {208}{}{Difícil}            # 3
 {209}{}{Normal}             # 1
 {210}{}{Mais Rápido}        # 2
-{211}{}{Palavroso}          # 1
+{211}{}{Verboso}            # 1
 {212}{}{Breve}              # 2
-{213}{}{So Mirando}
+{213}{}{Somente Mirando}
 {214}{}{Nenhum}             # 1
 {215}{}{Mínimo}             # 2
 {216}{}{Máximo de Sangue}   # 3

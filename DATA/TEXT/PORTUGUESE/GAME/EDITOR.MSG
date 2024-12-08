@@ -10,7 +10,7 @@
 #
 {100}{}{FEITO}
 {101}{}{OPÇÕES}
-{102}{}{FECHAR}
+{102}{}{CANCELAR}
 {103}{}{IMPRIMIR}
 {104}{}{IDADE}
 {105}{}{SEXO}
@@ -46,7 +46,7 @@
 {133}{}{Incapaz de incrementar.}    # 2
 {134}{}{No nível mínimo.}           # 1
 {135}{}{Incapaz de decrementar.}    # 2
-{136}{}{Não há pontos de habilidade livres disponíveis.}
+{136}{}{Não há pontos de hab. livres disponíveis.}
 {137}{}{Base:}
 {138}{}{HAB. DE IDENT.}
 {139}{}{TRAÇOS OPCIONAIS}
@@ -94,7 +94,7 @@
 {301}{}{Pts de Ação }
 {302}{}{Classe de Arm.}
 {303}{}{Desarmado}
-{304}{}{Corpo a Corpo}
+{304}{}{Combate Aprox.}
 {305}{}{Res. a Dano}
 {306}{}{Res. a Veneno}
 {307}{}{Res. a Rad}
@@ -175,8 +175,8 @@
 # -
 #{000}{}{         Força: 00       Pts de Dano: 000/000         Sequência: 00}
 #{000}{}{     Percepção: 00    Classe de Arm.: 000          Taxa de Cura: 00}
-#{000}{}{   Resistência: 00       Pts de Ação: 000        Chance Critico: 000%}
-#{000}{}{       Carisma: 00     Corpo a Corpo: 000         Carregar Peso: 000 lbs.}
+#{000}{}{   Resistência: 00       Pts de Ação: 000        Chance Crítico: 000%}
+#{000}{}{       Carisma: 00     Combate Prox.: 000         Carregar Peso: 000 lbs.}
 #{000}{}{  Inteligencia: 00       Res ao Dano: 000%}
 #{000}{}{     Agilidade: 00    Res a Radiação: 000%}
 #{000}{}{         Sorte: 00      Res a Veneno: 000%}
@@ -192,10 +192,10 @@
 # -
 {630}{}{    Resistência:}
 {631}{}{       Pts de Ação:}
-{632}{}{       Chance Critico:}
+{632}{}{       Chance Crítico:}
 # -
 {633}{}{        Carisma:}
-{634}{}{     Corpo a Corpo:}
+{634}{}{     Combate Prox.:}
 {635}{}{        Carregar Peso:}
 # -
 {636}{}{   Inteligencia:}

@@ -21,7 +21,7 @@
 {14}{}{Copyright(c) 1997 Interplay Productions. All rights reserved.}
 {15}{}{Pontos de Ação}
 {16}{}{Pontos de Vida}
-{17}{}{A opção de sensor de movimento não está instalada.}
+{17}{}{Sensor de movimento não está instalado.}
 {18}{}{O sensor de movimento não tem recargas restantes.}
 #
 # Game config text. Defined in gconfig.c

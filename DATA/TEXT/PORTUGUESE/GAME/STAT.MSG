@@ -81,7 +81,7 @@
 {214}{}{No final de cada dia, seu/sua personagem cura 1 HP para cada ponto de Taxa de Cura. Quando você descansa, você cura a cada seis horas.}
 # Critical Chance
 {215}{}{A chance de causar um golpe crítico em combate é aumentada por esta quantidade.}
-{216}{}{Melhores Criticos}
+{216}{}{Melhores Críticos}
 {217}{}{Começo do Dano}
 {218}{}{Começo do Dano por Laser}
 {219}{}{Começo do Dano por Fogo}

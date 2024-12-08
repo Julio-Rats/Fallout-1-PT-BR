@@ -8,15 +8,15 @@
 # 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
 
 # System
-{100}{}{CARREGAR O JOGO}              # Titles
+{100}{}{CARREGAR O JOGO}        # Titles
 {101}{}{ESCOLHA UM SLOT}
 {102}{}{SALVAR O JOGO}
 {103}{}{ESCOLHA UM SLOT}
 {104}{}{FEITO}
-{105}{}{FECHAR}
-{106}{}{Erro ao carregar a lista de jogos salvos!} # Line 1
-{107}{}{Diret髍io dos jogos salvos:}    # Line 2
-{108}{}{N鉶 existe ou esta corrompido.} # Line 3
+{105}{}{CANCELAR}
+{106}{}{Erro ao carregar a lista de jogos salvos!}  # Line 1
+{107}{}{Diret髍io dos jogos salvos:}                # Line 2
+{108}{}{N鉶 existe ou esta corrompido.}             # Line 3
 {109}{}{SALVAR O JOGO}
 {110}{}{CARREGAR O JOGO}
 {111}{}{- VAZIO -}
@@ -38,7 +38,6 @@
 {126}{}{OUT}
 {127}{}{NOV}
 {128}{}{DEZ}
-
 {129}{}{N韛el}
 {130}{}{DESCRI敲O}
 {131}{}{Ja existe um jogo salvo, sobrescrever?}
