@@ -8,7 +8,7 @@
 {101}{}{Armas Grandes}
 {102}{}{Armas de Energia}
 {103}{}{Desarmado}
-{104}{}{Corpo a Corpo}
+{104}{}{Armas Brancas}
 {105}{}{Arremesso}
 {106}{}{Primeiros Socorros}
 {107}{}{Medicina}
@@ -29,7 +29,7 @@
 {201}{}{A operação e manutenção de armas realmente grandes. Miniguns, Lançadores de Foguetes, Lanças-chamas e similares.}
 {202}{}{O cuidado e operação de armas baseadas em energia. Como armar e operar armas que utilizam tecnologia laser ou plasma.}
 {203}{}{Uma combinação de artes marciais, boxe e outras artes marciais corpo a corpo. Combate com mãos e pés.}
-{204}{}{Uso de armas não-rangidas no combate corpo a corpo, ou combate corpo a corpo. Facas, marretas, lanças, bastões e assim por diante.}
+{204}{}{Uso de armas a curta distância no combate corpo a corpo, ou uso de armas Brancas. Facas, marretas, lanças, bastões e assim por diante.}
 {205}{}{A habilidade com armas de longo alcance impulsionadas por músculos. Facas, lanças e granadas.}
 {206}{}{Habilidade geral de cura. Usado para curar pequenos cortes, arranhões e outros problemas menores. Em termos de jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que apenas o descanso.}
 {207}{}{A cura de ferimentos graves e membros comprometidos. Sem esta habilidade, levará um período muito mais longo para restaurar membros comprometidos ao uso.}
