@@ -487,7 +487,7 @@
 #
 {5000}{}{ e realmente dói}
 {5001}{}{. Um ferimento sério é infligido}
-{5002}{}{ sem defesas de armadura}
+{5002}{}{ sem defesa da armadura}
 {5003}{}{. O ataque danoso o deixa inconsciente}
 {5004}{}{. O golpe o derruba no chão}
 {5005}{}{. O forte golpe na cabeça o deixa inconsciente}

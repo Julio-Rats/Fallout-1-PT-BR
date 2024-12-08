@@ -184,7 +184,7 @@
 #
 
 # *** FEV Experiment Tape ***
-{1000}{}{? Data do Registro, 21 de Março de 2075}
+{1000}{}{• Data do Registro, 21 de Março de 2075}
 {1001}{}{O Major Barnett tem ordenado experimentos com o lote}
 {1002}{}{10-011 do vírus de pan-imunidade, o qual foi renomeado}
 {1003}{}{VEF, Vírus Evolucionário Forçado. Sua principal}
@@ -201,7 +201,7 @@
 {1014}{}{de plantas foram cancelados por ordem do Major Barnett.}
 {1015}{}{**END-PAR**}
 # -
-{1016}{}{? Data do Registro, 9 de Maio de 2075}
+{1016}{}{• Data do Registro, 9 de Maio de 2075}
 {1017}{}{Nós infectamos diversas espécies de platelmintos com o}
 {1018}{}{VEF. Dentro de horas, as minhocas aumentaram de}
 {1019}{}{tamanho em 28%, e a população resistiu a 39 contágios}
@@ -214,7 +214,7 @@
 {1026}{}{até segunda ordem.}
 {1027}{}{**END-PAR**}
 # -
-{1028}{}{? Data do Registro, 30 de Junho de 2075}
+{1028}{}{• Data do Registro, 30 de Junho de 2075}
 {1029}{}{Várias linhagens de ratos brancos foram infectadas com}
 {1030}{}{sucesso com o VEF. De novo, um aumento no tamanho}
 {1031}{}{foi notado dentro de horas e após 9 dias todos os}
@@ -228,7 +228,7 @@
 {1039}{}{para confirmar esta descoberta como significativa.}
 {1040}{}{**END-PAR**}
 # -
-{1041}{}{? Data do Registro, 9 de Novembro de 2075}
+{1041}{}{• Data do Registro, 9 de Novembro de 2075}
 {1042}{}{Nós infectamos 218 coelhos com o VEF. Em metade das}
 {1043}{}{cobaias foram implantados eletrodos para monitorar}
 {1044}{}{a atividade de eletroencefalograma antes e depois da}
@@ -242,7 +242,7 @@
 {1052}{}{límbico e no córtex frontal.}
 {1053}{}{**END-PAR**}
 # -
-{1054}{}{? Data do Registro, 12 de Janeiro de 2076}
+{1054}{}{• Data do Registro, 12 de Janeiro de 2076}
 {1055}{}{Com o lote 11-011, nós melhoramos a eficiência do ciclo}
 {1056}{}{mitótico em 43%. Infectamos 53 guaxinins com a nova cepa.}
 {1057}{}{Além do agora esperado aumento de tamanho, testes}
@@ -254,7 +254,7 @@
 {1063}{}{Dois pares estão desaparecidos.}
 {1064}{}{**END-PAR**}
 # -
-{1065}{}{? Data do Registro, 13 de Maio de 2076}
+{1065}{}{• Data do Registro, 13 de Maio de 2076}
 {1066}{}{Nós temos combinado novas sequências de genes,}
 {1067}{}{supridos pelo time conselheiro do Major Barnett no VEF.}
 {1068}{}{Com o lote 11-101a, nós infectamos 23 cães de raça pura}
@@ -266,7 +266,7 @@
 {1074}{}{as cobaias foram eliminadas após 14 semanas de estudo.}
 {1075}{}{**END-PAR**}
 # -
-{1076}{}{? Data do Registro, 4 de Outubro de 2076}
+{1076}{}{• Data do Registro, 4 de Outubro de 2076}
 {1077}{}{O cruzamento foi concluído e 15 chimpanzés foram}
 {1078}{}{infectados com o lote 11-111. Os níveis de crescimento}
 {1079}{}{e imunidade não tem precedentes. Tentativas de induzir}
@@ -277,7 +277,7 @@
 {1084}{}{as cobaias restantes foram exterminadas.}
 {1085}{}{**END-PAR**}
 # -
-{1086}{}{? Data do Registro, 7 de Janeiro, 2077}
+{1086}{}{• Data do Registro, 7 de Janeiro, 2077}
 {1087}{}{O Major Barnett ordenou a transferência de toda a}
 {1088}{}{pesquisa do VEF para a Base Militar Mariposa. Ele planeja}
 {1089}{}{continuar os experimentos do projeto em voluntários.}
@@ -420,7 +420,7 @@
 
 
 # *** Vree's Experiment Disk ***
-{6000}{}{? Observações Iniciais}
+{6000}{}{• Observações Iniciais}
 {6001}{}{**END-PAR**}
 # -
 {6002}{}{Isto é verdadeiramente incrível. Alguns dos Cavaleiros}
@@ -438,7 +438,7 @@
 {6013}{}{espécime.}
 {6014}{}{**END-PAR**}
 # -
-{6015}{}{? Estatísticas do Espécime A:}
+{6015}{}{• Estatísticas do Espécime A:}
 {6016}{}{**END-PAR**}
 # -
 {6017}{}{Altura: 3,2 metros}
@@ -475,7 +475,7 @@
 {6048}{}{   sinais.}
 {6049}{}{**END-PAR**}
 # -
-{6050}{}{? Hipótese Inicial}
+{6050}{}{• Hipótese Inicial}
 {6051}{}{**END-PAR**}
 # -
 {6052}{}{Com base no aumento de tamanho dos neurotransmissores}
@@ -489,7 +489,7 @@
 {6060}{}{determinar a possível causa da morte.}
 {6061}{}{**END-PAR**}
 # -
-{6062}{}{? Resultados dos testes conduzidos no Espécime A:}
+{6062}{}{• Resultados dos testes conduzidos no Espécime A:}
 {6063}{}{**END-PAR**}
 # -
 {6064}{}{Inspeção Visual:}
@@ -512,7 +512,7 @@
 {6080}{}{   Vírus Evolucionário Forçado II:  Overdose severa}
 {6081}{}{**END-PAR**}
 # -
-{6082}{}{? Hipóteses}
+{6082}{}{• Hipóteses}
 {6083}{}{**END-PAR**}
 # -
 {6084}{}{Baseado nas minhas observações, eu levantaria a}
@@ -543,7 +543,7 @@
 {6108}{}{cepa em 30%.}
 {6109}{}{**END-PAR**}
 # -
-{6110}{}{? Conclusões}
+{6110}{}{• Conclusões}
 {6111}{}{**END-PAR**}
 # -
 {6112}{}{Baseado nesta informação, eu extrapolaria que nós}
@@ -636,7 +636,7 @@
 
 
 # *** Military Base Disk***
-{9000}{}{? 10 de Outubro de 2077}
+{9000}{}{• 10 de Outubro de 2077}
 {9001}{}{Eu, Roger Maxson, Capitão, número serial 072389 iniciei}
 {9002}{}{este registro porque as coisas não parecem boas para}
 {9003}{}{nenhum de nós e eu gostaria que as pessoas soubessem}
@@ -653,7 +653,7 @@
 {9013}{}{banho de sangue anarquista.}
 {9014}{}{**END-PAR**}
 # -
-{9015}{}{? 12 de Outubro de 2077}
+{9015}{}{• 12 de Outubro de 2077}
 {9016}{}{Toda vez que recebemos um relatório de cima, as coisas}
 {9017}{}{aqui ficam piores. A guerra está indo em uma direção}
 {9018}{}{muito ruim e este lugar está prestes a entrar em motim}
@@ -663,7 +663,7 @@
 {9022}{}{ordens.}
 {9023}{}{**END-PAR**}
 # -
-{9024}{}{? 13 de Outubro de 2077}
+{9024}{}{• 13 de Outubro de 2077}
 {9025}{}{Eu matei um homem hoje. Eu estava interrogando o}
 {9026}{}{Cientista Chefe Anderson e ele estava me dando todos}
 {9027}{}{os detalhes dos seus experimentos desumanos. Ele disse}
@@ -675,7 +675,7 @@
 {9033}{}{não tenho tanta certeza.}
 {9034}{}{**END-PAR**}
 # -
-{9035}{}{? 15 de Outubro de 2077}
+{9035}{}{• 15 de Outubro de 2077}
 {9036}{}{Eu tentei de novo falar com o coronel através da porta,}
 {9037}{}{mas ele parecia ter perdido completamente a noção da}
 {9038}{}{realidade. Arrombei a porta com vários homens bem a}
@@ -683,7 +683,7 @@
 {9040}{}{dele puxar o gatilho, ele pediu desculpas.}
 {9041}{}{**END-PAR**}
 # -
-{9042}{}{? 18 de Outubro de 2077}
+{9042}{}{• 18 de Outubro de 2077}
 {9043}{}{Matando o sabichão, eu pareço ter confirmado minha}
 {9044}{}{posição como líder dos homens. Eles me seguem sem}
 {9045}{}{questionar agora. Os interrogatórios sempre terminam}
@@ -696,7 +696,7 @@
 {9052}{}{os cientistas.}
 {9053}{}{**END-PAR**}
 # -
-{9054}{}{? 20 de Outubro de 2077}
+{9054}{}{• 20 de Outubro de 2077}
 {9055}{}{Eu finalmente respondi ao mundo lá fora pelo nosso rádio.}
 {9056}{}{Não sei por que eles nunca enviaram alguém aqui para ver}
 {9057}{}{o que estava acontecendo quando nós paramos de}
@@ -706,14 +706,14 @@
 {9061}{}{dirá sobre mim?}
 {9062}{}{**END-PAR**}
 # -
-{9063}{}{? 22 de Outubro de 2077}
+{9063}{}{• 22 de Outubro de 2077}
 {9064}{}{O que diabos está acontecendo? Nós declaramos estar}
 {9065}{}{em total deserção do exército e não mais sob o comando}
 {9066}{}{do governo e o que acontece? Nada. Algo ruim está}
 {9067}{}{acontecendo.}
 {9068}{}{**END-PAR**}
 # -
-{9069}{}{? 23 de Outubro de 2077}
+{9069}{}{• 23 de Outubro de 2077}
 {9070}{}{Não posso acreditar que esses desgraçados finalmente}
 {9071}{}{fizeram. Que ardam todos no inferno. Eles finalmente}
 {9072}{}{lançaram as Bombas Atômicas. Nós estávamos bem no}
@@ -728,7 +728,7 @@
 {9081}{}{sabemos ainda se a poeira radioativa alcançou esta área.}
 {9082}{}{**END-PAR**}
 # -
-{9083}{}{? 25 de Outubro de 2077}
+{9083}{}{• 25 de Outubro de 2077}
 {9084}{}{Sargento Platner se voluntariou para ir lá fora hoje}
 {9085}{}{para medir o nível de radiação na atmosfera. Parece que}
 {9086}{}{a radiação não se espalhou tão longe assim. Como ele}
@@ -738,7 +738,7 @@
 {9090}{}{descontaminação adequadas aqui.}
 {9091}{}{**END-PAR**}
 # -
-{9092}{}{? 26 de Outubro de 2077}
+{9092}{}{• 26 de Outubro de 2077}
 {9093}{}{Eu convenci os homens de que nós deveríamos enterrar}
 {9094}{}{os cientistas. Eu não sei por que... talvez fosse pra}
 {9095}{}{aliviar minha consciência. Eu finalmente comecei a}
@@ -749,7 +749,7 @@
 {9099}{}{Meu Deus, no que eu me tornei?}
 {9100}{}{**END-PAR**}
 # -
-{9101}{}{? 27 de Outubro de 2077}
+{9101}{}{• 27 de Outubro de 2077}
 {9102}{}{Nós estamos deixando este lugar amaldiçoado hoje. Eu}
 {9103}{}{estou liderando o êxodo para o velho bunker do governo}
 {9104}{}{em Lost Hills. Eu estou deixando este registro para trás}
@@ -999,7 +999,7 @@
 {12123}{}{**END-DISK**}
 
 # *** Captain Maxson's Diary ***
-{13000}{}{? 10 de Outubro de 2077}
+{13000}{}{• 10 de Outubro de 2077}
 {13001}{}{Eu, Roger Maxson, Capitão, número serial 072389 iniciei}
 {13002}{}{este registro porque as coisas não parecem boas para}
 {13003}{}{nenhum de nós e eu gostaria que as pessoas soubessem}
@@ -1016,7 +1016,7 @@
 {13013}{}{banho de sangue anarquista.}
 {13014}{}{**END-PAR**}
 # -
-{13015}{}{? 12 de Outubro de 2077}
+{13015}{}{• 12 de Outubro de 2077}
 {13016}{}{Toda vez que recebemos um relatório de cima, as coisas}
 {13017}{}{aqui ficam piores. A guerra está indo em uma direção}
 {13018}{}{muito ruim e este lugar está prestes a entrar em motim}
@@ -1026,7 +1026,7 @@
 {13022}{}{ordens.}
 {13023}{}{**END-PAR**}
 # -
-{13024}{}{? 13 de Outubro de 2077}
+{13024}{}{• 13 de Outubro de 2077}
 {13025}{}{Eu matei um homem hoje. Eu estava interrogando o}
 {13026}{}{Cientista Chefe Anderson e ele estava me dando todos}
 {13027}{}{os detalhes dos seus experimentos desumanos. Ele disse}
@@ -1038,7 +1038,7 @@
 {13033}{}{não tenho tanta certeza.}
 {13034}{}{**END-PAR**}
 # -
-{13035}{}{? 15 de Outubro de 2077}
+{13035}{}{• 15 de Outubro de 2077}
 {13036}{}{Eu tentei de novo falar com o coronel através da porta,}
 {13037}{}{mas ele parecia ter perdido completamente a noção da}
 {13038}{}{realidade. Arrombei a porta com vários homens bem a}
@@ -1046,7 +1046,7 @@
 {13040}{}{dele puxar o gatilho, ele pediu desculpas.}
 {13041}{}{**END-PAR**}
 # -
-{13042}{}{? 18 de Outubro de 2077}
+{13042}{}{• 18 de Outubro de 2077}
 {13043}{}{Matando o sabichão, eu pareço ter confirmado minha}
 {13044}{}{posição como líder dos homens. Eles me seguem sem}
 {13045}{}{questionar agora. Os interrogatórios sempre terminam}
@@ -1059,7 +1059,7 @@
 {13052}{}{os cientistas.}
 {13053}{}{**END-PAR**}
 # -
-{13054}{}{? 20 de Outubro de 2077}
+{13054}{}{• 20 de Outubro de 2077}
 {13055}{}{Eu finalmente respondi ao mundo lá fora pelo nosso rádio.}
 {13056}{}{Não sei por que eles nunca enviaram alguém aqui para ver}
 {13057}{}{o que estava acontecendo quando nós paramos de}
@@ -1069,14 +1069,14 @@
 {13061}{}{dirá sobre mim?}
 {13062}{}{**END-PAR**}
 # -
-{13063}{}{? 22 de Outubro de 2077}
+{13063}{}{• 22 de Outubro de 2077}
 {13064}{}{O que diabos está acontecendo? Nós declaramos estar}
 {13065}{}{em total deserção do exército e não mais sob o comando}
 {13066}{}{do governo e o que acontece? Nada. Algo ruim está}
 {13067}{}{acontecendo.}
 {13068}{}{**END-PAR**}
 # -
-{13069}{}{? 23 de Outubro de 2077}
+{13069}{}{• 23 de Outubro de 2077}
 {13070}{}{Não posso acreditar que esses desgraçados finalmente}
 {13071}{}{fizeram. Que ardam todos no inferno. Eles finalmente}
 {13072}{}{lançaram as Bombas Atômicas. Nós estávamos bem no}
@@ -1091,7 +1091,7 @@
 {13081}{}{sabemos ainda se a poeira radioativa alcançou esta área.}
 {13082}{}{**END-PAR**}
 # -
-{13083}{}{? 25 de Outubro de 2077}
+{13083}{}{• 25 de Outubro de 2077}
 {13084}{}{Sargento Platner se voluntariou para ir lá fora hoje}
 {13085}{}{para medir o nível de radiação na atmosfera. Parece que}
 {13086}{}{a radiação não se espalhou tão longe assim. Como ele}
@@ -1101,7 +1101,7 @@
 {13090}{}{descontaminação adequadas aqui.}
 {13091}{}{**END-PAR**}
 # -
-{13092}{}{? 26 de Outubro de 2077}
+{13092}{}{• 26 de Outubro de 2077}
 {13093}{}{Eu convenci os homens de que nós deveríamos enterrar}
 {13094}{}{os cientistas. Eu não sei por que... talvez fosse pra}
 {13095}{}{aliviar minha consciência. Eu finalmente comecei a}
@@ -1112,7 +1112,7 @@
 {13099}{}{Meu Deus, no que eu me tornei?}
 {13100}{}{**END-PAR**}
 # -
-{13101}{}{? 27 de Outubro de 2077}
+{13101}{}{• 27 de Outubro de 2077}
 {13102}{}{Nós estamos deixando este lugar amaldiçoado hoje. Eu}
 {13103}{}{estou liderando o êxodo para o velho bunker do governo}
 {13104}{}{em Lost Hills. Eu estou deixando este registro pra trás}

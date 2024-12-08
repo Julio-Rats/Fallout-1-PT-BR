@@ -123,7 +123,7 @@
 {1108}{}{Eu vou ensinar a você algumas maneiras}
 {1109}{}{Você é história!}
 {1110}{}{Atacar!}
-{1111}{}{Vamos enterrar este perdedor!}
+{1111}{}{Vamos enterrar este(a) perdedor(a)!}
 #
 # attacking
 #
@@ -1569,7 +1569,7 @@
 # moving in to attack
 #
 {2606}{}{}
-{2607}{}{Vamos enterrar este arruaceiro!}
+{2607}{}{Vamos enterrar este(a) arruaceiro(a)!}
 {2608}{}{Hora de morrer!}
 {2609}{}{Você não é permitido aqui!}
 {2610}{}{Hora de tirar o lixo pra fora...}
@@ -1921,7 +1921,7 @@
 #
 # moving in to attack
 #
-{3006}{}{Matem este tolo!}
+{3006}{}{Matem este(a) tolo(a)!}
 {3007}{}{Carne fresca...}
 {3008}{}{Saquear!}
 {3009}{}{Este é meu!}
@@ -2541,7 +2541,7 @@
 {3612}{}{}
 {3613}{}{Morra!}
 {3614}{}{Skank!}
-{3615}{}{Isto por isso que eles nos chamam de Blades}
+{3615}{}{Por isso que eles nos chamam de Blades}
 {3616}{}{}
 {3617}{}{Espero que isto machuque}
 {3618}{}{Vou apreciar isto}
@@ -2742,7 +2742,7 @@
 # attacking
 #
 {3812}{}{Gangester miserável!}
-{3813}{}{Eu vou por você fora do seu sofrimento}
+{3813}{}{Eu vou terminar com o seu sofrimento}
 {3814}{}{Você não é melhor do que um animal!}
 {3815}{}{Melhor você ficar abaixado desta vez}
 {3816}{}{Você nunca aborrecerá ninguém de novo}
@@ -4744,7 +4744,7 @@
 #
 # moving in to attack
 #
-{5806}{}{Vamos pregar este patife!}
+{5806}{}{Vamos pregar este(a) patife!}
 {5807}{}{Clame o caos!}
 {5808}{}{Ei você!}
 {5809}{}{Eu não gosto da sua atitude...}
@@ -5957,7 +5957,7 @@
 {7007}{}{Este é meu!}
 {7008}{}{Isto deve ser rápido}
 {7009}{}{Mais uma vez na discórdia}
-{7010}{}{Deixe-nós neutralizar este criador de problemas}
+{7010}{}{Deixe-nós neutralizar este(a) criador(a) de problemas}
 {7011}{}{Eu estou dentro!}
 #
 # attacking
@@ -6036,8 +6036,8 @@
 {7056}{}{Uuuuuu, minha virilha!}
 {7057}{}{Eu estou realmente começando a não gostar deste miserável}
 {7058}{}{Eu já me senti melhor}
-{7059}{}{Então, este miserável gosta de golpe baixo}
-{7060}{}{Hora de acabar com este miserável}
+{7059}{}{Então, este(a) miserável gosta de golpe baixo}
+{7060}{}{Hora de acabar com este(a) miserável}
 {7061}{}{Outro trapaceiro de golpes baixos, não!}
 
 # 62. Brotherhood_Elders
@@ -6059,7 +6059,7 @@
 {7108}{}{Isto deve ser rápido}
 {7109}{}{Isto talvez seja um desafio}
 {7110}{}{Alguém acabou de cometer um grande erro}
-{7111}{}{Alguém quer nós aborrecer? Quem é este imbecil?}
+{7111}{}{Alguém quer nós aborrecer? Quem é este(a) imbecil?}
 #
 # attacking
 #
