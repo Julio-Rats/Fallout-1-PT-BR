@@ -1,0 +1,244 @@
+#
+# Messages for Prototypes
+#
+# strings
+#
+{10}{}{<Nenhum>}
+
+#
+# Material Types
+#
+{100}{}{Vidro}
+{101}{}{Metal}
+{102}{}{Plástico}
+{103}{}{Madeira}
+{104}{}{Terra}
+{105}{}{Pedra}
+{106}{}{Cimento}
+{107}{}{Couro}
+
+#
+# Item Types
+#
+{150}{}{Armadura}
+{151}{}{Recipiente}
+{152}{}{Droga}
+{153}{}{Arma}
+{154}{}{Munição}
+{155}{}{Item Diverso}
+{156}{}{Chave}
+
+#
+# Scenery Types
+#
+{200}{}{Portal}
+{201}{}{Escadas}
+{202}{}{Elevador}
+{203}{}{Base da Escada}
+{204}{}{Topo da Escada}
+{205}{}{Cenário Genérico}
+
+#
+# Damage Code Types
+#
+{250}{}{dano_normal}
+{251}{}{laser}
+{252}{}{fogo}
+{253}{}{plasma}
+{254}{}{elétrico}
+{255}{}{emp}
+{256}{}{explosão}
+
+#
+# Caliber Types for weapons
+#
+{300}{}{Nenhum}
+{301}{}{Foguete}
+{302}{}{Combustível do Lança-Chamas}
+{303}{}{Célula de Energia C}
+{304}{}{Célula de Energia D}
+{305}{}{.223}
+{306}{}{5 mm}
+{307}{}{calibre .40}
+{308}{}{10 mm}
+{309}{}{calibre .44}
+{310}{}{14 mm}
+{311}{}{calibre 12}
+{312}{}{9 mm}
+{313}{}{BB}
+
+#
+# Race Types
+#
+{350}{}{Caucasiano}
+{351}{}{Africano}
+
+#
+# Body Types
+#
+{400}{}{Bípede}
+{401}{}{Quadrupede}
+{402}{}{Robótico}
+#
+# Kill Types names
+#
+{450}{}{Homens}
+{451}{}{Mulheres}
+{452}{}{Crianças}
+{453}{}{Super Mutantes}
+{454}{}{Ghouls}
+{455}{}{Brahmin}
+{456}{}{Radscorpions}
+{457}{}{Ratos}
+{458}{}{Flutuadores}
+{459}{}{Centauros}
+{460}{}{Robôs}
+{461}{}{Cães}
+{462}{}{Manti}
+{463}{}{DeathClaws}
+{464}{}{Mestre}       # Not displayed!
+#
+# Kill type info descriptions
+#
+{465}{}{Esta linha mostra o número de humanos do sexo masculino que você matou durante suas aventuras.}
+{466}{}{Esta linha mostra o número de humanas do sexo feminino que você matou durante suas aventuras.}
+{467}{}{Esta linha mostra o número de crianças humanas que você matou durante suas aventuras. Você é um monstro.}
+{468}{}{O número de Super Mutantes que você matou durante suas aventuras.}
+{469}{}{Esta linha mostra o número de mutantes Ghouls masculinos e femininos que você matou durante suas aventuras.}
+{470}{}{Esta linha mostra o número de Brahmin (vacas mutantes) que você matou durante suas viagens.}
+{471}{}{O número de Radscorpions transformados que você matou durante sua aventura.}
+{472}{}{O número de ratos que você matou. Inclui todos os membros da família dos ratos.}
+{473}{}{Este é o número de Flutuadores mutantes que você matou.}
+{474}{}{Sua contagem de Centauros mutantes mortos.}
+{475}{}{Este é o número de robôs que você destruiu ou desmontou.}
+{476}{}{O número total de cães que você enviou para o grande canil no céu.}
+{477}{}{Esta linha mostra o número total de Mantis mortas, ou grandes insetos mutantes parecidos com mantídeos, que você esmagou até agora.}
+{478}{}{Esta linha mostra que você matou o Deathclaw, e qualquer um de seus descendentes.}
+{479}{}{Não Exibido.   Erro!}
+
+#
+# Use text
+#
+{480}{}{Você vê: %s.}
+
+#
+# Use Container text
+#
+{485}{}{Você vasculha %s.}
+{486}{}{Você fecha %s.}
+{487}{}{Está trancado.}     # new
+
+#
+# Look text
+#
+{490}{}{Você vê: %s.}
+{491}{}{Você vê um morto: %s.}
+{492}{}{Você vê os restos do(a): %s.}
+{493}{}{Você não vê nada fora do comum.}
+
+#
+# Examine text
+#
+{500}{}{Morto}
+{501}{}{Quase Morto}
+{502}{}{Gravemente Ferido}
+{503}{}{Ferido}
+{504}{}{Sem Ferimentos}
+
+#
+# Examine text messages
+#
+{518}{}{Você parece: %s }
+{519}{}{%s %s }
+{520}{}{Você parece: %s.}
+{521}{}{%s %s.}
+{522}{}{Ele parece: %s }
+{523}{}{Ela parece: %s }
+{524}{}{Parece: %s }
+# (note: hps are short for hit-points)
+{525}{}{%s tem %d/%d PV.}
+# (note: this is for guns that have ammo)
+{526}{}{Ele tem %d/%d tiros de %s.}
+{530}{}{e tem os membros incapacitados.}  # These append to lines 500-504
+{531}{}{mas tem os membros incapacitados.}
+{532}{}{e tem os membros incapacitados.}
+{533}{}{mas tem os membros incapacitados.}
+# (note: hps are short for hit-points)
+{535}{}{Ele tem %d/%d PV}
+{536}{}{Ela tem %d/%d PV}
+{537}{}{Ele tem %d/%d PV}
+{540}{}{Pesa %d libras.}
+{541}{}{Pesa %d libra.}
+{544}{}{, }
+{545}{}{.}
+{546}{}{ e esta empunhando um(a) %s.}
+{547}{}{ e esta empunhando um(a) %s com %d/%d tiros de %s.}
+
+#
+# Examine text error messages
+#
+{550}{}{\nError: lookup_val out of range!}
+{551}{}{\nError: obj_examine: proto_ptr failed!}
+
+#
+# Use text messages
+#
+{580}{}{Você usa o(a) %s.}
+{581}{}{Você usa o(a) %s em %s.}
+{582}{}{Isso não faz nada.}
+{583}{}{Para seu desgosto, você percebe que já está morto(a).}
+{584}{}{Ao se agachar, você percebe que já está morto(a).}
+{585}{}{Infelizmente, você chegou tarde demais.}    # This is relating to a critter being dead.
+{586}{}{Isso não funciona com os mortos.}
+{587}{}{Você acende o sinalizador.}
+{588}{}{O sinalizador já está aceso.}
+{589}{}{Você configura o temporizador.}
+{590}{}{O temporizador já está em contagem regressiva!}
+
+#
+# Experience-Point messages
+#
+{620}{}{Você ganha %d pontos de experiência por matar: %s.}
+{621}{}{%s você ganha %d pontos de experiência.}
+{622}{}{Por derrotar seus inimigos, }   # 622-626 prepend to line 621
+{623}{}{Por eliminar seus oponentes, }
+{624}{}{Você foi vitorioso(a) no combate, }
+{625}{}{Por esmagar seus inimigos, }
+{626}{}{Por destruir seus inimigos sem levar um arranhão, }
+
+#
+# Dialog messages
+#
+{650}{}{[Feito]}
+{651}{}{[Mais]}
+{652}{}{Mais}
+{653}{}{[Voltar]}
+{654}{}{Voltar}         # changed number from 653
+{655}{}{Continuar}      # new
+{656}{}{Err...}         # new
+{660}{}{Você não pode ver daí.}
+{661}{}{Muito distante.}
+
+#
+# Not Enough AP message
+#
+{700}{}{Você não tem pontos de ação o bastante.}
+#
+# Book messages
+#
+{800}{}{Você lê o livro.}
+{801}{}{Você não aprende nada novo.}
+{802}{}{Você aprende novas informações sobre ciência.}
+{803}{}{Você aprende muito sobre reparar eletrônicos quebrados.}
+{804}{}{Você aprende novas maneiras de curar ferimentos.}
+{805}{}{Você aprende a manusear suas armas melhor.}
+{806}{}{Você aprende muito sobre sobrevivência nas regiões despovoadas.}
+#
+# Use on messages (and some extra stuff that Jesse needed)
+#
+{900}{}{Os suprimentos na Mala do Médico acabaram.}
+{901}{}{Os suprimentos no Kit de Primeiros Socorros acabaram.}
+{902}{}{Você não pode fazer isso em combate.}
+{903}{}{Esta pessoa não vai negociar com você.}
+{904}{}{Esta pessoa não tem nada para lhe contar.}
+{905}{}{Você não pode pegar esse item. Você atingiu a capacidade máxima de peso.}

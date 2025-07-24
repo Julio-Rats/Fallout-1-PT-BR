@@ -1,0 +1,802 @@
+#
+# This is all of the combat messages used by combat.c
+# Note: all %d values will be filled with a number greater than 1
+#
+# Truly Generic strings (no need for gender/number issues)
+#
+{100}{}{Você precisa de %d pontos de ação.}
+{101}{}{Sem munição.}
+{102}{}{Alvo fora do alcance.}
+{103}{}{O combate não pode terminar com criaturas hostis por perto.}
+{104}{}{Sua mira está bloqueada.}
+{105}{}{Você não pode usar armas com ambos os braços incapacitados.}
+{106}{}{Você não pode usar armas de duas mãos com um braço incapacitado.}
+{107}{}{Você não tem força suficiente para usar esta arma de forma adequada.}
+{108}{}{ e }
+#
+# Combat Flag Strings (all of these happen to you, the MALE player)
+#
+{200}{}{nocauteado}
+{201}{}{derrubado}
+{202}{}{incapacitou sua perna esquerda}
+{203}{}{incapacitou sua perna direita}
+{204}{}{incapacitou seu braço esquerdo}
+{205}{}{incapacitou seu braço direito}
+{206}{}{cegado}
+{207}{}{foi morto}
+{208}{}{atingido}
+{209}{}{crítico}
+{210}{}{em chamas}
+{211}{}{teve sua armadura trespassada}
+{212}{}{sua arma explodiu}
+{213}{}{sua arma foi destruída}
+{214}{}{sua arma caiu}
+{215}{}{perdeu seu próximo turno}
+{216}{}{acertou a si mesmo}
+{217}{}{perdeu o resto da sua munição}
+{218}{}{disparou um tiro que não chegou ao alvo}
+{219}{}{feriu a si mesmo}
+{220}{}{acertou aleatoriamente}
+{221}{}{incapacitou um membro aleatório}
+{222}{}{atingido com fragmentos}
+#
+# Combat Flag Strings (all of these happen to you, the FEMALE player)
+#
+{250}{}{nocauteada}
+{251}{}{derrubada}
+{252}{}{deixou sua perna esquerda aleijada}
+{253}{}{deixou sua perna direita aleijada}
+{254}{}{deixou seu braço esquerdo aleijado}
+{255}{}{deixou seu braço direito aleijado}
+{256}{}{ficou cega}
+{257}{}{foram mortos}
+{258}{}{atingida}
+{259}{}{crítico}
+{260}{}{em chamas}
+{261}{}{teve sua armadura contornada}
+{262}{}{sua arma explodiu}
+{263}{}{sua arma foi destruída}
+{264}{}{sua arma caiu}
+{265}{}{perdeu seu próximo turno}
+{266}{}{se atingiu}
+{267}{}{perdeu o resto da munição}
+{268}{}{disparou um tiro sem efeito}
+{269}{}{Acertou você mesmo}
+{270}{}{atingiu aleatoriamente}
+{271}{}{aleijou um membro aleatório}
+{272}{}{atingido com fragmentos}
+#
+# Combat Flag Strings (all of these happen to a male)
+#
+{300}{}{nocauteado}
+{301}{}{derrubado}
+{302}{}{incapacitou sua perna esquerda}
+{303}{}{incapacitou sua perna direita}
+{304}{}{incapacitou seu braço esquerdo}
+{305}{}{incapacitou seu braço direito}
+{306}{}{cegado}
+{307}{}{foi morto}
+{308}{}{atingido}
+{309}{}{crítico}
+{310}{}{em chamas}
+{311}{}{teve sua armadura trespassada}
+{312}{}{sua arma explodiu}
+{313}{}{sua arma foi destruída}
+{314}{}{sua arma caiu}
+{315}{}{perdeu seu próximo turno}
+{316}{}{acertou a si mesmo}
+{317}{}{perdeu o resto da sua munição}
+{318}{}{disparou um tiro que não chegou ao alvo}
+{319}{}{feriu a si mesmo}
+{320}{}{acertou aleatoriamente}
+{321}{}{incapacitou um membro aleatório}
+{322}{}{atingido com fragmentos}
+#
+# Combat Flag Strings (all of these happen to a female)
+#
+{400}{}{nocauteada}
+{401}{}{derrubada}
+{402}{}{incapacitou sua perna esquerda}
+{403}{}{incapacitou sua perna direita}
+{404}{}{incapacitou seu braço esquerdo}
+{405}{}{incapacitou seu braço direito}
+{406}{}{cegada}
+{407}{}{foi morta}
+{408}{}{atingida}
+{409}{}{crítico}
+{410}{}{em chamas}
+{411}{}{teve sua armadura trespassada}
+{412}{}{sua arma explodiu}
+{413}{}{sua arma foi destruída}
+{414}{}{sua arma caiu}
+{415}{}{perdeu seu próximo turno}
+{416}{}{acertou a si mesma}
+{417}{}{perdeu o resto da munição dela}
+{418}{}{disparou um tiro que não chegou ao alvo}
+{419}{}{feriu a si mesma}
+{420}{}{acertou aleatoriamente}
+{421}{}{incapacitou um membro aleatório}
+{422}{}{atingida com fragmentos}
+#
+# Miscellaneous combat messages (all of these happen to you, the male player)
+# Note: the first %s will be replaced by the value of line 506, which
+#          should be the language's equivalent to 2nd person male singular,
+#          which is "You" in English. The first letter of line 506 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 509
+#          where the second %s is the name of another creature
+{506}{}{Você}
+{509}{}{Oops! %s foi atingido em vez de %s!}
+{511}{}{%s foi atingido criticamente no(a) %s com %d pontos de dano}
+{512}{}{%s foi atingido no(a) %s com %d pontos de dano}
+{513}{}{%s foi atingido com %d pontos de dano}
+{514}{}{%s errou criticamente}
+{515}{}{%s errou}
+{520}{}{%s foi atingido criticamente com %d pontos de dano}
+{521}{}{%s foi atingido criticamente no(a) %s com 1 ponto de dano}
+{522}{}{%s foi atingido no(a) %s com 1 ponto de dano}
+{523}{}{%s foi atingido com 1 ponto de dano}
+{524}{}{%s foi atingido com 1 ponto de dano}
+{525}{}{%s foi atingido criticamente no(a) %s sem nenhum dano}
+{526}{}{%s foi atingido no(a) %s sem nenhum dano}
+{527}{}{%s foi atingido sem nenhum dano}
+{528}{}{%s foi atingido criticamente sem nenhum dano}
+{533}{}{%s errou criticamente e tomou 1 ponto de dano}
+{534}{}{%s errou criticamente e tomou %d pontos de dano}
+#
+# Miscellaneous combat messages (all of these happen to you, the female player)
+# Note: the first %s will be replaced by the value of line 556, which
+#          should be the language's equivalent to 2nd person female singular,
+#          which is "You" in English. The first letter of line 556 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 559
+#          where the second %s is the name of another creature
+{556}{}{Você}
+{559}{}{Ops! %s foram atingidos em vez de %s!}
+{561}{}{%s foram atingidos criticamente em %s por %d pontos de vida}
+{562}{}{%s foram atingidos criticamente em %s por %d pontos de vida}
+{563}{}{%s foram atingidos criticamente por %d pontos de vida}
+{564}{}{%s erraram criticamente}
+{565}{}{%s erraram}
+{570}{}{%s foram atingidos criticamente por %d pontos de vida}
+{571}{}{%s foram atingidos criticamente em %s por 1 ponto de vida}
+{572}{}{%s foram atingidos criticamente em %s por 1 ponto de vida}
+{573}{}{%s foram atingidos criticamente por 1 ponto de vida}
+{574}{}{%s foram atingidos criticamente por 1 ponto de vida}
+{575}{}{%s foram atingidos criticamente em %s sem causar dano}
+{576}{}{%s foram atingidos criticamente em %s sem causar dano}
+{577}{}{%s foram atingidos criticamente por dano}
+{578}{}{%s foram atingidos criticamente sem causar dano}
+{583}{}{%s erraram criticamente e sofreram 1 ponto de vida}
+{584}{}{%s erraram criticamente e sofreram %d pontos de vida}
+#
+# Miscellaneous combat messages (all of these happen to a male)
+# Note: the first %s is the name of the male creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 609
+#          where the second %s is the name of another creature
+#
+{608}{}{Oops! %s foi atingido em vez de você!}
+{609}{}{Oops! %s foi atingido em vez de %s!}
+{611}{}{%s foi atingido criticamente no(a) %s com %d pontos de dano}
+{612}{}{%s foi atingido no(a) %s com %d pontos de dano}
+{613}{}{%s foi atingido com %d pontos de dano}
+{614}{}{%s errou criticamente}
+{615}{}{%s errou}
+{620}{}{%s foi atingido criticamente com %d pontos de dano}
+{621}{}{%s foi atingido criticamente no(a) %s com 1 ponto de dano}
+{622}{}{%s foi atingido no(a) %s com 1 ponto de dano}
+{623}{}{%s foi atingido com 1 ponto de dano}
+{624}{}{%s foi atingido criticamente com 1 ponto de dano}
+{625}{}{%s foi atingido criticamente no(a) %s sem nenhum dano}
+{626}{}{%s foi atingido no(a) %s sem nenhum dano}
+{627}{}{%s foi atingido sem nenhum dano}
+{628}{}{%s foi atingido criticamente sem nenhum dano}
+{633}{}{%s errou criticamente e tomou 1 ponto de dano}
+{634}{}{%s errou criticamente e tomou %d pontos de dano}
+#
+# Miscellaneous combat messages (all of these happen to a female)
+# Note: the first %s is the name of the female creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 709
+#          where the second %s is the name of another creature
+#
+{708}{}{Oops! %s foi atingida em vez de você!}
+{709}{}{Oops! %s foi atingida em vez de %s!}
+{711}{}{%s foi atingida criticamente no(a) %s com %d pontos de dano}
+{712}{}{%s foi atingida no(a) %s com %d pontos de dano}
+{713}{}{%s foi atingida com %d pontos de dano}
+{714}{}{%s errou criticamente}
+{715}{}{%s errou}
+{720}{}{%s foi atingida criticamente com %d pontos de dano}
+{721}{}{%s foi atingida criticamente no(a) %s com 1 ponto de dano}
+{722}{}{%s foi atingida no(a) %s com 1 ponto de dano}
+{723}{}{%s foi atingida com 1 ponto de dano}
+{724}{}{%s foi atingida criticamente com 1 ponto de dano}
+{725}{}{%s foi atingida criticamente no(a) %s sem nenhum dano}
+{726}{}{%s foi atingida no(a) %s sem nenhum dano}
+{727}{}{%s foi atingida sem nenhum dano}
+{728}{}{%s foi atingida criticamente sem nenhum dano}
+{733}{}{%s errou criticamente e tomou 1 ponto de dano}
+{734}{}{%s errou criticamente e tomou %d pontos de dano}
+#
+# Hit Locations (by art_num alias)
+#
+# regular humans
+#
+{1110}{}{cabeça}
+{1111}{}{braço esquerdo}
+{1112}{}{braço direito}
+{1113}{}{torso}
+{1114}{}{perna direita}
+{1115}{}{perna esquerda}
+{1116}{}{olho}
+{1117}{}{virilha}
+{1118}{}{não-nomeado}
+#
+# Brahmin (Mutant 2-Headed Cows)
+#
+{1150}{}{cabeça}
+{1151}{}{perna traseira esquerda}
+{1152}{}{perna traseira direita}
+{1153}{}{torso}
+{1154}{}{perna dianteira direita}
+{1155}{}{perna dianteira esquerda}
+{1156}{}{olho}
+{1157}{}{úbere}
+{1158}{}{não-nomeado}
+#
+# dogs
+#
+{1160}{}{cabeça}
+{1161}{}{pata traseira}
+{1162}{}{pata traseira}
+{1163}{}{corpo}
+{1164}{}{pata dianteira}
+{1165}{}{pata dianteira}
+{1166}{}{olho}
+{1167}{}{virilha}
+{1168}{}{não-nomeado}
+#
+# Mr. Handy
+#
+{1170}{}{CPU}
+{1171}{}{manipulador}
+{1172}{}{manipulador}
+{1173}{}{frame}
+{1174}{}{motivador}
+{1175}{}{motivador}
+{1176}{}{sensores}
+{1177}{}{regulador}
+{1178}{}{não-nomeado}
+#
+# Super Mutants
+#
+{1180}{}{cabeça}
+{1181}{}{braço esquerdo}
+{1182}{}{braço direito}
+{1183}{}{torso}
+{1184}{}{perna direita}
+{1185}{}{perna esquerda}
+{1186}{}{olho}
+{1187}{}{virilha}
+{1188}{}{não-nomeado}
+#
+# Mole-Rat
+#
+{1190}{}{cabeça}
+{1191}{}{pata esquerda}
+{1192}{}{pata direita}
+{1193}{}{corpo}
+{1194}{}{perna direita}
+{1195}{}{perna esquerda}
+{1196}{}{olho}
+{1197}{}{virilha}
+{1198}{}{não-nomeado}
+#
+# big humans and mutants
+#
+{1210}{}{cabeça}
+{1211}{}{braço esquerdo}
+{1212}{}{braço direito}
+{1213}{}{torso}
+{1214}{}{perna direita}
+{1215}{}{perna esquerda}
+{1216}{}{olho}
+{1217}{}{virilha}
+{1218}{}{não-nomeado}
+#
+# Radscorpion
+#
+{1220}{}{cabeça}
+{1221}{}{ferrão}
+{1222}{}{garra}
+{1223}{}{carapaça}
+{1224}{}{patas dianteiras}
+{1225}{}{patas traseiras}
+{1226}{}{olho}
+{1227}{}{cérebro}
+{1228}{}{não-nomeado}
+#
+# Floater
+#
+{1230}{}{cabeça}
+{1231}{}{boca}
+{1232}{}{boca dianteira}
+{1233}{}{corpo}
+{1234}{}{bolsa flutuante}
+{1235}{}{cauda}
+{1236}{}{gânglio}
+{1237}{}{ovipositor}
+{1238}{}{não-nomeado}
+#
+# masrat? a rat perhaps?
+#
+{1240}{}{cabeça}
+{1241}{}{pata esquerda}
+{1242}{}{pata direita}
+{1243}{}{corpo}
+{1244}{}{perna direita}
+{1245}{}{perna esquerda}
+{1246}{}{olho}
+{1247}{}{virilha}
+{1248}{}{não-nomeado}
+#
+# Centaur
+#
+{1250}{}{cabeça}
+{1251}{}{braço esquerdo}
+{1252}{}{braço direito}
+{1253}{}{corpo}
+{1254}{}{perna direita}
+{1255}{}{perna esquerda}
+{1256}{}{olho}
+{1257}{}{virilha}
+{1258}{}{não-nomeado}
+#
+# human midgets and children
+#
+{1270}{}{cabeça}
+{1271}{}{braço esquerdo}
+{1272}{}{braço direito}
+{1273}{}{torso}
+{1274}{}{perna direita}
+{1275}{}{perna esquerda}
+{1276}{}{olho}
+{1277}{}{virilha}
+{1278}{}{não-nomeado}
+#
+# Overseer
+#
+{1460}{}{cabeça}
+{1461}{}{braço esquerdo}
+{1462}{}{braço direito}
+{1463}{}{torso}
+{1464}{}{perna direita}
+{1465}{}{perna esquerda}
+{1466}{}{olho}
+{1467}{}{virilha}
+{1468}{}{não-nomeado}
+#
+# Gizmo
+#
+{1490}{}{cabeça}
+{1491}{}{braço esquerdo}
+{1492}{}{braço direito}
+{1493}{}{torso}
+{1494}{}{perna direita}
+{1495}{}{perna esquerda}
+{1496}{}{olho}
+{1497}{}{virilha}
+{1498}{}{não-nomeado}
+#
+# The Master!
+#
+{1500}{}{cabeça}
+{1501}{}{???}
+{1502}{}{???}
+{1503}{}{frame}
+{1504}{}{???}
+{1505}{}{???}
+{1506}{}{olho}
+{1507}{}{CPU}
+{1508}{}{não-nomeado}
+#
+# Death Claw
+#
+{1510}{}{cabeça}
+{1511}{}{braço esquerdo}
+{1512}{}{braço direito}
+{1513}{}{torso}
+{1514}{}{perna direita}
+{1515}{}{perna esquerda}
+{1516}{}{olho}
+{1517}{}{virilha}
+{1518}{}{não-nomeado}
+#
+# Mantis
+#
+{1520}{}{cabeça}
+{1521}{}{perna de rapina}
+{1522}{}{perna de rapina}
+{1523}{}{abdome}
+{1524}{}{pernas}
+{1525}{}{asas}
+{1526}{}{olho}
+{1527}{}{meta-tórax}
+{1528}{}{não-nomeado}
+#
+# Robobrain
+#
+{1530}{}{CPU}
+{1531}{}{manipulador}
+{1532}{}{manipulador}
+{1533}{}{frame}
+{1534}{}{motivador}
+{1535}{}{motivador}
+{1536}{}{sensores}
+{1537}{}{regulador}
+{1538}{}{não-nomeado}
+#
+# Eyeball (Robot)
+#
+{1540}{}{CPU}
+{1541}{}{manipulador}
+{1542}{}{manipulador}
+{1543}{}{frame}
+{1544}{}{motivador}
+{1545}{}{motivador}
+{1546}{}{sensores}
+{1547}{}{regulador}
+{1548}{}{não-nomeado}
+#
+# Mutant Pig Rat (small Mole-Rat)
+#
+{1550}{}{cabeça}
+{1551}{}{pata esquerda}
+{1552}{}{pata direita}
+{1553}{}{corpo}
+{1554}{}{perna direita}
+{1555}{}{perna esquerda}
+{1556}{}{olho}
+{1557}{}{virilha}
+{1558}{}{não-nomeado}
+#
+# Deathclaw Egg
+#
+{1580}{}{casca}
+{1581}{}{casca}
+{1582}{}{casca}
+{1583}{}{casca}
+{1584}{}{casca}
+{1585}{}{casca}
+{1586}{}{casca}
+{1587}{}{casca}
+{1588}{}{não-nomeado}
+
+#
+# Critical Hit Messages
+#
+# 5000 series - men (including generics)
+#
+{5000}{}{ e realmente dói}
+{5001}{}{. Um ferimento sério é infligido}
+{5002}{}{ sem defesa da armadura}
+{5003}{}{. O ataque danoso o deixa inconsciente}
+{5004}{}{. O golpe o derruba no chão}
+{5005}{}{. O forte golpe na cabeça o deixa inconsciente}
+{5006}{}{. O ataque esmaga a têmpora. Bom sonhos, lindão.}
+{5007}{}{, a morte é instantânea}
+{5008}{}{, causando uma grave epicondilite lateral (cotovelo de tenista)}
+{5009}{}{, empurrando o braço para o lado}
+{5010}{}{, deixando um grande hematoma}
+{5011}{}{, inutilizando o braço esquerdo}
+{5012}{}{, deixando o braço esquerdo pendurado apenas pela pele}
+{5013}{}{. Esse braço agora parece um toco ensanguentado}
+{5014}{}{, deixando o braço direito inutilizado}
+{5015}{}{. Seu braço direito é pulverizado por este golpe poderoso}
+{5016}{}{ em um golpe contundente}
+{5017}{}{ atravessando a armadura}
+{5018}{}{, infligindo uma dose extra de dano}
+{5019}{}{ sem armadura, derrubando o combatente no chão}
+{5020}{}{ tirando-lhe o ar, ele desaba no chão fora de combate}
+{5021}{}{. Infelizmente, sua espinha agora está claramente visível pela frente}
+{5022}{}{ causando um grande dano em sua perna}
+{5023}{}{, derrubando no chão como um pino de boliche em uma partida de liga}
+{5024}{}{, jogando ao chão e inutilizando aquela perna}
+{5025}{}{, esmagando o joelho para a cidade vizinha. Ele cai}
+{5026}{}{. A dor intensa de perder uma perna o faz desistir}
+{5027}{}{ infligindo alguma dor extra}
+{5028}{}{ causando cegueira, infelizmente para ele}
+{5029}{}{, e sem proteção ali, causando dor séria}
+{5030}{}{, e cegando com um golpe atordoante}
+{5031}{}{. A perda de um olho é demais para ele, e ele cai no chão}
+{5032}{}{, infelizmente, ele está ocupado demais sentindo o ar fresco no cérebro para notar a morte se aproximando}
+{5033}{}{. Ai! Isso deve ter doído}
+{5034}{}{, e ele não está usando um protetor genital, também}
+{5035}{}{ e sem proteção, ele cai gemendo de agonia}
+{5036}{}{. A dor é demais para ele, e ele colapsa como um boneco de pano}
+{5037}{}{. Ele murmura "Mamãe", enquanto seus olho se reviram para o fundo da cabeça}
+#
+# series 5100 - women
+#
+{5100}{}{ e realmente dói}
+{5101}{}{. Um ferimento sério é infligido}
+{5102}{}{ sem armadura}
+{5103}{}{. O ataque danoso a deixa inconsciente}
+{5104}{}{. O golpe a derruba no chão}
+{5105}{}{. O forte golpe na cabeça a deixa inconsciente}
+{5106}{}{. O ataque esmaga sua têmpora. Bom sonhos, lindeza.}
+{5107}{}{, a morte é instantânea}
+{5108}{}{, causando uma grave epicondilite lateral (cotovelo de tenista)}
+{5109}{}{, empurrando o braço para o lado}
+{5110}{}{, deixando um grande hematoma}
+{5111}{}{, inutilizando o braço esquerdo}
+{5112}{}{. O braço esquerdo está mal preso ao seu ombro}
+{5113}{}{. Esse braço agora parece um toco ensanguentado}
+{5114}{}{, deixando o braço direito inutilizado}
+{5115}{}{. Seu braço direito é transformado em carne moída pelo golpe}
+{5116}{}{ em um golpe contundente}
+{5117}{}{ perfurando suas defesas}
+{5118}{}{, infligindo uma dose extra de dano}
+{5119}{}{ sem armadura, derrubando a lutadora no chão}
+{5120}{}{ tirando-lhe o ar, ela desaba no chão}
+{5121}{}{. Infelizmente, seus órgãos principais estão expostos à luz}
+{5122}{}{ causando um grande dano em sua perna}
+{5123}{}{, derrubando como um encontro ruim}
+{5124}{}{, derrubando e inutilizando aquela perna}
+{5125}{}{, esmagando o joelho para a cidade vizinha. Ela toma o caminho rápido para o chão}
+{5126}{}{. Ela grita de dor pela perna quebrada}
+{5127}{}{ infligindo alguma dor extra}
+{5128}{}{ causando cegueira. Ela faz uma careta}
+{5129}{}{, e sem proteção ali, causando dor séria}
+{5130}{}{. A ferida causa cegueira severa, como se existisse outro tipo}
+{5131}{}{. Ela desmaia pelo golpe cegante}
+{5132}{}{, infelizmente, ela não tem tempo de rezar para seus deuses antes de encontrá-los}
+{5133}{}{. Ela toma isso como um homem. Ou seja, dói}
+{5134}{}{, derrubando no chão}
+{5135}{}{. Seus dias férteis estão no fim enquanto ela desaba em um montinho sem vida}
+#
+# series 5200 - children
+#
+{5200}{}{. A criancinha começa a chorar}
+{5201}{}{. Inconsciente, a criança pequena cai no chão}
+{5202}{}{. Ai!}
+{5203}{}{. O golpe acerta em cheio, e a criança fica inconsciente}
+{5204}{}{, jogando a criança pequena de um lado para o outro como um pano molhado}
+{5205}{}{. O braço esquerdo dessa criança agora tem um machucado}
+{5206}{}{, desequilibrando a criança pequena}
+{5207}{}{, quebrando aquele braço com um estalo alto. As lágrimas começam a rolar}
+{5208}{}{, facilmente estalando aquele braço como se fosse um pedacinho de doce}
+{5209}{}{. O braço direito começa a inchar, como um balão}
+{5210}{}{, e começa a chorar}
+{5211}{}{ em um ponto sensível}
+{5212}{}{. O ataque a um órgão vital derruba a criança}
+{5213}{}{, derrubando a criancinha como se fosse um brinquedo}
+{5214}{}{. Agora, essa jovem criança nunca realmente experimentará a vida}
+{5215}{}{, infligindo um corte profundo}
+{5216}{}{. O ataque derruba a criança e quebra a perna}
+{5217}{}{, causando grande dano à criança pequena}
+{5218}{}{. A jovem criança olha para cima e começa a chorar}
+{5219}{}{, o que cega a juventude}
+{5220}{}{, esmagando o nariz juvenil}
+{5221}{}{. Um corte aparece acima dos olho e o sangue começa a jorrar}
+{5222}{}{, o que abre um olho como uma uva explodindo. A criança parece perplexa}
+{5223}{}{ causando cegueira. A jovem criança cai no chão}
+{5224}{}{, o golpe continua até o pequeno cérebro}
+{5225}{}{. A criança parece confusa e atordoada}
+{5226}{}{, derrubando esse jovem alvo no chão}
+#
+# series 5300 - Super Mutants
+#
+{5300}{}{, ferindo o poderoso mutante}
+{5301}{}{, atingindo um ponto vital}
+{5302}{}{, atingindo um ponto vital e derrubando o gigante no chão}
+{5303}{}{. O gigante mutante olha ao redor por um momento, e então desaba no chão}
+{5304}{}{. A cabeça explode como uma enorme melancia sanguinolenta}
+{5305}{}{, ferindo severamente o poderoso mutante}
+{5306}{}{, fazendo o gigante passar um momento xingando o universo}
+{5307}{}{, atingindo um nervo e forçando o gigante a segurar o braço de dor}
+{5308}{}{. O golpe quebra o cotovelo e provavelmente não deve ter sido nada agradável}
+{5309}{}{, quebrando o braço grosso e espalhando sangue mutante pelo chão}
+{5310}{}{, fazendo o gigante vacilar por um momento e então cai como uma árvore pobre}
+{5311}{}{, e galões de vísceras espirram para o chão}
+{5312}{}{, fazendo o gigante voar para o chão}
+{5313}{}{. O mutante vacila e cai, sua perna mal conseguindo sustentá-lo}
+{5314}{}{, atingindo um local vital. O mutante desaba sob uma perna quebrada}
+{5315}{}{. A dor de uma perna quebrada sobrecarrega o poderoso gigante}
+{5316}{}{, quase cegando o mutante}
+{5317}{}{, cegando o mutante agora furioso}
+{5318}{}{, quase cegando o mutante, mas desequilibrando-o}
+{5319}{}{. O mutante cego vacila para trás, despreparado para o próximo ataque}
+{5320}{}{, cegando o mutante agora inconsciente}
+{5321}{}{. Os olho do mutante brilham por um momento, e então a luz se apaga - permanentemente}
+#
+# series 5400 - Ghouls
+#
+{5400}{}{. O ghoul fica surpreso e falha em se defender contra esse ataque}
+{5401}{}{. Esse golpe enterra o ghoul}
+{5402}{}{. A mão do ghoul atordoado se abre}
+{5403}{}{, passando por sua armadura e atingindo uma articulação crítica}
+{5404}{}{, passando por sua armadura e cortando o braço fora}
+{5405}{}{. O ghoul se move da forma errada no momento errado e perde um olho}
+{5406}{}{. O ghoul não está usando armadura ali}
+{5407}{}{, e sem armadura, o ghoul fica cego}
+{5408}{}{, fazendo o ghoul parecer confuso em seus últimos momentos}
+#
+# series 5500 - Brahmin
+#
+{5500}{}{, nocauteando a grande fera ao chão}
+{5501}{}{, atordoando ambos os cérebros e derrubando o animal gigante}
+{5502}{}{. A vaca mutante dá um brado alto, amedrontada}
+{5503}{}{, quebrando uma das pernas do Brahmin}
+{5504}{}{, seriamente ferindo a vaca mutante}
+{5505}{}{, facilmente penetrando o couro grosso da fera gigante}
+{5506}{}{, penetrando direto através de ambos os corações da vaca mutante}
+{5507}{}{, cegando ambos os pares de olho com um único golpe}
+{5508}{}{, cegando ambas as cabeças e atordoando a vaca mutante}
+{5509}{}{, cegando completamente o Brahmin e nocauteando-o}
+{5510}{}{, o grande bovino mutante cambaleia por um momento}
+{5511}{}{. O Brahmin treme com a fúria}
+{5512}{}{. O Brahmin bufa com dor}
+{5513}{}{. O Brahmin está muito chateado com este ataque totalmente devastador}
+#
+# series 5600 - Radscorpions
+#
+{5600}{}{, enviando o Radscorpion voando de costas}
+{5601}{}{, separando a cabeça da carapaça}
+{5602}{}{, danificando seriamente o ferrão}
+{5603}{}{, causando um grande dano nas garras}
+{5604}{}{. O golpe escorrega pelas fendas da dura carapaça do Radscorpion}
+{5605}{}{, perfurando a dura carapaça sem parar}
+{5606}{}{, passando pela armadura natural e derrubando o Radscorpion}
+{5607}{}{. O Radscorpion não consegue lidar com uma nova sensação, como órgãos internos faltando}
+{5608}{}{, enviando o 'escorpião' voando e incapacitante algumas de suas patas}
+{5609}{}{. O ataque corta através de uma articulação desprotegida na pata, cortando-a}
+{5610}{}{, ferindo gravemente e cegando a criatura mutante}
+{5611}{}{, penetrando quase até o cérebro. Falar em esmagar um inseto}
+{5612}{}{, quase penetrando até o cérebro, mas cegando a criatura em vez disso}
+{5613}{}{. O ataque é maligno e muito sofisticado para essa simples criatura}
+{5614}{}{. Se fosse humano, você juraria que está bem irritado}
+{5615}{}{, nocauteando a pobre criatura}
+{5616}{}{, perfurando o cérebro até o chão}
+#
+# series 5700 - Rats
+#
+{5700}{}{. O crânio do roedor emite vários sons não saudáveis}
+{5701}{}{, esmagando o crânio do roedor como um saco de papel molhado}
+{5702}{}{, e a pata esquerda agora parece um pouco achatada}
+{5703}{}{. A pata esquerda do rato é arrancada}
+{5704}{}{. A pata direita está seriamente danificada}
+{5705}{}{, arrancando a pata direita}
+{5706}{}{. O rato está seriamente ferido por este ataque}
+{5707}{}{, ferindo gravemente o rato e jogando-o para os lados}
+{5708}{}{, espalhando o rato pelo chão}
+{5709}{}{, incapacitante a pata direita}
+{5710}{}{, fazendo um grande buraco na pata esquerda}
+{5711}{}{, causando dano extra devido à localização sensível}
+{5712}{}{, convocando esta criatura para o grande caçador de ratos no céu}
+#
+# series 5800 - Floaters
+#
+{5800}{}{, o flutuante cai no chão}
+{5801}{}{, o flutuante cai no chão, aparentemente sem vida}
+{5802}{}{, com sérias consequências para a continuidade da existência da criatura}
+{5803}{}{, atordoando a criatura repulsiva}
+{5804}{}{, atingindo um ponto sensível ali e atordoando o flutuante}
+{5805}{}{. O golpe faz o flutuante tremer violentamente em um jato de carmesim}
+{5806}{}{, o golpe causando algum tipo de reação violenta na criatura}
+{5807}{}{. O flutuante de repente se põe em chamas}
+{5808}{}{, então ele se sacode violentamente e treme como uma surpresa de pudim}
+{5809}{}{, com o golpe atingindo um ponto sensível}
+{5810}{}{. A criatura está obviamente agitada}
+#
+# series 5900 - Centaurs
+#
+{5900}{}{, empurrado como um hábito ruim, o centauro cai e fica atordoado}
+{5901}{}{, quando o golpe atinge um ponto crítico}
+{5902}{}{, causando uma falha neurológica maciça}
+{5903}{}{, atordoando-o com seu ataque violento}
+{5904}{}{, incapacitando o braço}
+{5905}{}{, atingindo um ponto crítico e incapacitando o braço}
+{5906}{}{, derrubando a criatura e incapacitando a perna}
+{5907}{}{, atordoando o centauro enquanto é derrubado com a perna incapacitada}
+{5908}{}{, cegando uma cabeça}
+{5909}{}{, surpreendendo o centauro. Ele tropeça cegamente por um momento}
+{5910}{}{, surpreendendo o centauro. Ele desaba em um monte}
+{5911}{}{, surpreendendo o centauro. Ele desaba em um monte de gosma}
+{5912}{}{. O ataque não foi tão eficaz quanto poderia ter sido}
+#
+# series 6000 - Robots
+#
+{6000}{}{, infligindo alguns danos estruturais}
+{6001}{}{, faíscas voam e o robô perde momentaneamente o controle}
+{6002}{}{, atingindo um componente crítico e forçando o robô a sair de controle}
+{6003}{}{, atingindo um componente crítico e causando uma falha massiva}
+{6004}{}{. O robô tenta compensar}
+{6005}{}{. O robô se esforça para compensar}
+{6006}{}{, atingindo alguma parte chave e causando danos pesados}
+{6007}{}{, infligindo danos estruturais pesados}
+{6008}{}{, atingindo um componente crítico e causando danos severos}
+{6009}{}{. O robô treme sob esse ataque intenso}
+{6010}{}{, desmantelando o robô}
+{6011}{}{. O robô tenta compensar, mas falha, caindo no chão}
+{6012}{}{. O robô se esforça sob a pressão, caindo no chão}
+{6013}{}{, quebrando as lentes do sensor}
+#
+# series 6100 - Dogs
+#
+{6100}{}{, derrubando o cachorro no chão}
+{6101}{}{, bem na fuça}
+{6102}{}{. O cachorro cai, mas ainda está respirando}
+{6103}{}{, o animal tosse e solta um jato de sangue}
+{6104}{}{, deixando a perna incapaz de funcionar}
+{6105}{}{, deixando a perna incapaz de funcionar. O animal tenta se manter de pé, mas falha}
+{6106}{}{. O animal cego uiva de dor}
+{6107}{}{, castrando o pobre animal}
+#
+# series 6200 - Manti
+#
+{6200}{}{, derrubando este inseto mutante}
+{6201}{}{, que desaba}
+{6202}{}{. O manti pondera se deve continuar vivendo}
+{6203}{}{, deixando o membro incapaz de funcionar}
+{6204}{}{, fazendo o Manti lamber suas feridas. Ele segura o membro de forma estranha}
+{6205}{}{, ultrapassando a armadura quitinosa}
+{6206}{}{. O manti grita e treme de maneira não humana}
+{6207}{}{, o que faz o manti cair. Um membro está dobrado de forma estranha}
+{6208}{}{, rasgando as asas}
+{6209}{}{, ultrapassando a armadura quitinosa e jogando o manti de um lado para o outro}
+{6210}{}{, cegando o inseto com um golpe preciso}
+#
+# series 6300 - Deathclaw
+#
+{6300}{}{. Até essa besta parece afetada por esse ataque atordoante}
+{6301}{}{, deslizando pelas enormes garras para atingir o monstro. O Deathclaw treme e rosna}
+{6302}{}{. O resultado é um dano massivo nos olho do Deathclaw}
+#
+# series 6400 - The Master
+#
+{6400}{}{, quebrando as defesas bioorgânicas}
+{6401}{}{, causando sérios problemas para o Master}
+{6402}{}{, quebrando as defesas bioorgânicas e colocando pressão no Master}
+{6403}{}{, atordoando o Master com um plano ofensivo sólido}
+{6404}{}{, causando uma sobrecarga de proporções cataclísmicas nos sistemas do Master}
+{6405}{}{. O ataque contra o Master parece causar menos dano do que deveria}
+{6406}{}{. O golpe ultrapassa as defesas bioorgânicas, realmente cegando o Master}
+#
+# series 6500 - The Player
+#
+{6500}{}{. Você vai ter uma dor de cabeça amanhã, se sobreviver até lá.}  
+{6501}{}{. Sua armadura não oferece proteção contra este golpe bem mirado.}  
+{6502}{}{. Você sente a dor por um momento, e então a escuridão toma você...}  
+{6503}{}{, passando pela sua armadura. O golpe te derruba.}  
+{6504}{}{, o choque faz sua visão escurecer. Depois de um momento, você percebe que sua visão não voltou.}  
+{6505}{}{. Você tem uma boa visão do seu corpo enquanto sua cabeça voa pelo ar.}  
+{6506}{}{. Surpreendentemente, o dano não parece pior do que o normal.}  
+{6507}{}{, te atordoando por um momento.}  
+{6508}{}{. Sinta a dor.}  
+{6509}{}{. O ataque deixa seu braço inútil.}  
+{6510}{}{, escorregando pela sua armadura. O golpe quebra os ossos do seu braço como madeira podre.}  
+{6511}{}{, passando pela sua armadura. Seu braço agora pende frouxamente ao seu lado.}  
+{6512}{}{. O hematoma ficará bonito, e talvez as cicatrizes sejam boas para uma conversa de festa.}  
+{6513}{}{, esmagando seus órgãos internos. Tudo o que você pode fazer é engasgar com sangue.}  
+{6514}{}{, te fazendo cair de cabeça para baixo.}  
+{6515}{}{, te lançando para o ar e quebrando sua perna.}  
+{6516}{}{, derretendo através da sua armadura. O golpe te derruba e machuca seriamente seu joelho.}  
+{6517}{}{. A dor da sua perna quebrada te manda para a inconsciência.}  
+{6518}{}{. O golpe doloroso faz você se contrair, mas não faz mais nada.}  
+{6519}{}{. Infelizmente para você, ele também causa perda imediata da visão.}  
+{6520}{}{. Você leva um momento para limpar o sangue dos seus olho.}  
+{6521}{}{, escorregando pela sua armadura. Você fica paralisado, percebendo que não pode mais ver.}  
+{6522}{}{. Você sente uma sensação estranha na sua cabeça. Você percebe que é a morte cerebral iminente.}  
+{6523}{}{, fazendo você se encolher.}  
+{6524}{}{. Você protege a virilha e cai no chão de dor.}  
+{6525}{}{. A dor é suficiente para te nocautear.}  
+{6526}{}{. Não há palavras suficientes no universo para descrever a dor que você está sentindo neste momento.}

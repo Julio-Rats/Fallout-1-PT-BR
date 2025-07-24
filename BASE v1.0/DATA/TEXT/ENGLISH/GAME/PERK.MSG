@@ -1,0 +1,137 @@
+#
+#   Messages from perk.c
+#
+#
+#   PERK NAMES
+#
+{101}{}{Consciência}
+{102}{}{Bônus Ataques Corpo a Corpo}
+{103}{}{Bônus Dano Corpo a Corpo}
+{104}{}{Movimento Bônus}
+{105}{}{Bônus Dano à Distância}
+{106}{}{Bônus Cadência de Fogo}
+{107}{}{Sequência Antecipada}
+{108}{}{Cura Mais Rápida}
+{109}{}{Mais Críticos}
+{110}{}{Visão Noturna}
+{111}{}{Presença}
+{112}{}{Resistência à Radiação}
+{113}{}{Robusto}
+{114}{}{Costas Fortes}
+{115}{}{Atirador de Elite}
+{116}{}{Corrida Silenciosa}
+{117}{}{Sobrevivente}
+{118}{}{Mestre Comerciante}
+{119}{}{Educado}
+{120}{}{Curandeiro}
+{121}{}{Caçador de Fortuna}
+{122}{}{Críticos Melhorados}
+{123}{}{Empatia}
+{124}{}{Carrasco}
+{125}{}{Franco-atirador}
+{126}{}{Morte Silenciosa}
+{127}{}{Garoto de Ação}
+{128}{}{Bloqueio Mental}
+{129}{}{Doador de Vida}
+{130}{}{Esquiva}
+{131}{}{Comedor de Cobra}
+{132}{}{Sr. Conserto}
+{133}{}{Médico}
+{134}{}{Mestre Ladrão}
+{135}{}{Orador}
+{136}{}{Força Total!}
+{137}{}{Inimigo Amigável}
+{138}{}{Batedor de Carteiras}
+{139}{}{Fantasma}
+{140}{}{Personalidade Culta}
+{141}{}{Catador}
+{142}{}{Explorador}
+{143}{}{Filho das Flores}
+{144}{}{Explorador de Trilhas}
+{145}{}{Amigo dos Animais}
+{146}{}{Escoteiro}
+{147}{}{Estranho Misterioso}
+{148}{}{Guardião}
+{149}{}{Bolsos Ágeis}
+{150}{}{Persuasivo}
+{151}{}{Aprendiz Veloz}
+{152}{}{Etiqueta!}
+{153}{}{Mutação!}
+{154}{}{Vício em Nuka-Cola}
+{155}{}{Vício em Buffout}
+{156}{}{Vício em Mentats}
+{157}{}{Vício em Psycho}
+{158}{}{Vício em Radaway}
+{159}{}{Arma de Longo Alcance}
+{160}{}{Arma Precisa}
+{161}{}{Arma Penetrante}
+{162}{}{Arma de Recuo}
+{163}{}{Armadura Fortalecida}
+{164}{}{Armadura de Combate}
+#
+#   PERK DESCRIPTIONS
+#
+{201}{}{Você tem mais chances de notar detalhes sobre as pessoas. A Consciência dará informações mais detalhadas sobre elas quando você realizar um Exame.}
+{202}{}{Você aprendeu as artes secretas do oriente, ou apenas dá socos mais rápidos. De qualquer forma, seus ataques Corpo a Corpo custam 1 PA a menos para realizar.}
+{203}{}{A experiência em combate desarmado lhe deu vantagem no que diz respeito ao dano. Você causa +2 pontos de dano com ataques desarmados e combate com armas brancas para cada nível deste benefício.}
+{204}{}{Para cada nível de Movimento Bônus, você recebe 2 PAs a cada turno que podem ser usados apenas para movimento. Em outras palavras, você pode mover 2 hexágonos gratuitos a cada turno para cada nível deste benefício.}
+{205}{}{Seu treinamento em armas de fogo e outras armas de longo alcance o tornou mais mortal no combate à distância. Para cada nível deste benefício, você causa +2 pontos de dano com armas à distância.}
+{206}{}{Este benefício permite que você aperte o gatilho um pouco mais rápido, e ainda mantenha a mesma precisão de antes. Cada ataque com arma à distância custa 1 PA a menos para realizar.}
+{207}{}{Você tem mais chances de se mover antes de seus oponentes no combate, já que sua Sequência é +2 para cada nível deste benefício.}
+{208}{}{Com cada nível deste benefício, você receberá um bônus de +1 na sua Taxa de Cura. Assim, você cura mais rápido.}
+{209}{}{Você tem mais chances de causar Golpes Críticos no combate se tiver este benefício. Cada nível de Mais Críticos lhe dará +5% de chance de causar um golpe crítico. Isso é uma boa coisa.}
+{210}{}{Com o benefício Visão Noturna, você pode ver melhor no escuro. Cada nível deste benefício reduzirá o nível geral de escuridão em 10%.}
+{211}{}{Você comanda atenção só de entrar em uma sala. A reação inicial de outra pessoa é melhorada em 10% para cada nível deste benefício.}
+{212}{}{Você é mais capaz de evitar radiação, e os efeitos ruins que a radiação causa. Cada nível deste benefício melhorará sua Resistência à Radiação em 10%.}
+{213}{}{Quando você é resistente, recebe menos dano. Cada nível deste benefício adicionará +10% à sua resistência geral ao dano.}
+{214}{}{Conhecido como Mula. Você pode carregar 50 lbs a mais de equipamento para cada nível deste benefício.}
+{215}{}{O talento de acertar coisas a distâncias maiores. Você recebe um bônus de +2, para cada nível deste benefício, em PE para fins de determinar modificadores de alcance. Matar à longa distância nunca foi tão fácil!}
+{216}{}{Com este benefício, você agora tem a habilidade de se mover rapidamente e ainda permanecer em silêncio. Você pode ser Furtivo e correr. Sem este benefício, você pararia de ser Furtivo se corresse.}
+{217}{}{Você é um mestre ao ar livre. Este benefício confere a habilidade de sobreviver em ambientes hostis. Você recebe um bônus de +20% em Homem Livre ao Ar para propósitos de sobrevivência, para cada nível deste benefício.}
+{218}{}{Você dominou o aspecto da barganha, a habilidade de comprar mercadorias mais barato do que uma pessoa comum. Com este benefício, você recebe um desconto de 25% em lojas ou trocas.}
+{219}{}{Cada nível de Educado adicionará +2 pontos de habilidade ao ganhar um novo nível de experiência. Este benefício é mais eficaz quando adquirido no início da sua aventura.}
+{220}{}{A cura de corpos se torna mais fácil para você com este benefício. Cada nível adicionará de 2 a 5 pontos de vida a mais curados ao usar as habilidades de Primeiros Socorros ou Medicina.}
+{221}{}{Você tem o talento de encontrar dinheiro. Você encontrará dinheiro adicional em encontros aleatórios no deserto.}
+{222}{}{Os golpes críticos que você causa em combate são mais devastadores. Você ganha um bônus de 20% no dano de golpes críticos. Isso não afeta a chance de causar um golpe crítico.}
+{223}{}{Você estudou outros seres humanos, adquirindo conhecimento sobre suas reações emocionais em relação a você. Você verá o nível de reação da pessoa com quem está conversando, quando envolvido em uma conversa aprofundada.}
+{224}{}{O Carrasco anda pela terra! No combate corpo a corpo, todos os seus golpes são atualizados para golpes críticos, causando destruição e caos.}
+{225}{}{Você dominou a arma de fogo como uma fonte de dor. Com este benefício, qualquer acerto bem-sucedido em combate com arma à distância será um golpe crítico, se você passar na rolagem de Sorte.}
+{226}{}{Enquanto Furtivo, se você acertar um inimigo pelas costas, causará o dobro de dano usando um ataque corpo a corpo. Morte Silenciosa é esse tipo de benefício.}
+{227}{}{Cada nível de Garoto de Ação (ou Garota de Ação, se preferir) lhe dará um PA adicional a cada turno de combate. Você pode usar esses PAs genéricos em qualquer tarefa.}
+{228}{}{Bloqueio Mental é a habilidade de ignorar qualquer interferência mental externa. Você deve ter aprendido esse talento com um guru passageiro ou em uma noite muito tarde em um bar.}
+{229}{}{Com cada nível deste benefício, você ganhará 4 Pontos de Vida adicionais. Isso pode não parecer muito, mas toda ajuda é válida.}
+{230}{}{Você tem menos chances de ser atingido em combate, se tiver este benefício. Cada nível adicionará +5% à sua Classe de Armadura, além do bônus de CA da armadura que você estiver usando.}
+{231}{}{Humm! Tem gosto de frango. Você ganhou uma imunidade a venenos, resultando em +25% na sua Resistência a Venenos.}
+{232}{}{Este benefício lhe dará um bônus único de +20% nas habilidades de Reparação e Ciência. Um pouco de estudo noturno nunca fez mal a ninguém, especialmente a você.}
+{233}{}{O benefício Médico lhe dará um bônus único de +20% nas habilidades de Primeiros Socorros e Medicina. Habilidades de cura são uma boa coisa.}
+{234}{}{Um Grande Ladrão tem um bônus único de +10% nas habilidades de Furtividade, Desarme de Fechaduras, Roubo e Armadilhas. Roube dos ricos, e dê para você.}
+{235}{}{Ser um Orador significa que você tem um bônus único de +20% nas habilidades de Discurso e Negociação. Das bocas dos bebês e tudo mais.}
+{236}{}{Cada nível do benefício da Força Total! dará às suas armas arremessadas +2 de Força para fins de determinar o alcance apenas.}
+{237}{}{Personagens que fazem parte do seu time são destacados em verde no combate, em vez de vermelho, com esse benefício. Personagens destacados em vermelho ainda podem ser não-hostis.}
+{238}{}{Você é muito mais habilidoso em Roubo do que o criminoso comum. Você pode Roubar como os melhores, porque com este benefício, você ignora modificadores de tamanho e de posição ao roubar de uma pessoa.}
+{239}{}{Quando o sol se põe, ou você está em uma área mal iluminada, você se move como um Fantasma com este benefício. Sua habilidade de Furtividade é aprimorada em +20% durante condições de escuridão.}
+{240}{}{Sua reputação é sempre positiva para as pessoas. Sem este benefício, uma grande reputação negativa teria um efeito ruim sobre pessoas de boa índole. Funciona também com uma boa reputação e pessoas más.}
+{241}{}{Você pode encontrar mais munição do que o sobrevivente comum pós-apocalíptico. Este benefício dobrará a quantidade de munição encontrada em encontros aleatórios.}
+{242}{}{A marca do Explorador é procurar novos e interessantes locais. Com este benefício, você tem uma chance maior de encontrar lugares ou pessoas especiais.}
+{243}{}{Com este benefício, você tem muito menos chances de viciar em substâncias químicas (50% menos chances, na verdade), e sofre metade do tempo de abstinência das substâncias químicas do que uma pessoa normal.}
+{244}{}{O Caminhante é melhor para encontrar o caminho mais curto. Com este benefício, seu tempo de viagem no Mapa Mundial é reduzido em 25% para cada nível.}
+{245}{}{Os animais não atacarão um de seus amigos, a menos que o animal seja ameaçado ou atacado primeiro. Exatamente o que é um animal neste mundo é algo que pode ser debatido.}
+{246}{}{Você melhorou sua habilidade de ver locais distantes, aumentando o tamanho das explorações no Mapa Mundial em um quadrado em cada direção.}
+{247}{}{Com este benefício, você atraiu a atenção de um Estranho Misterioso, que aparecerá para ajudá-lo de tempos em tempos. Se seu aliado for perdido em combate, não espere que ele ou ela seja substituído.}
+{248}{}{Você é melhor para evitar atenção indesejada enquanto viaja pelo deserto. Sua chance de um encontro aleatório hostil é reduzida a cada nível deste benefício.}
+{249}{}{Você aprendeu a guardar melhor seu equipamento em seu corpo. Com cada nível deste benefício, o custo de PA para acessar o Inventário em combate é reduzido em um.}
+{250}{}{Um Persuasivo aprendeu a aumentar suas opções no diálogo, sem entender o que está dizendo. Cada nível deste benefício aumentará seu IN em um, apenas para fins de diálogo.}
+{251}{}{Você é de fato um Aprendiz Veloz com este benefício, já que cada nível lhe dará um bônus adicional de +5% sempre que você ganhar pontos de experiência. Melhor ser adquirido no início do jogo.}
+{252}{}{Suas habilidades melhoraram a ponto de você poder escolher uma habilidade adicional de Habilidade Marcada, aumentando essa habilidade em +20% imediatamente e 2% por ponto de habilidade gasto.}
+{253}{}{A radiação do deserto mudou você! Um dos seus Traços se transformou em algo diferente...}
+{254}{}{Você está com desejo de mais uma Nuka-Cola.}
+{255}{}{Você está com tremedeira.}
+{256}{}{Você está se sentindo grogue.}
+{257}{}{Você está se sentindo tonto.}
+{258}{}{Você está se sentindo enjoado.}
+{259}{}{Arma de Longo Alcance}
+{260}{}{Arma Precisa}
+{261}{}{Arma Penetrante}
+{262}{}{Arma com Recuo}
+{263}{}{Armadura Fortalecida}
+{264}{}{Armadura de Combate}

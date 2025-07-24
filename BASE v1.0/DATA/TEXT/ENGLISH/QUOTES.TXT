@@ -1,0 +1,402 @@
+;
+; Fallout team quotes
+;
+; The fonts used to display this file are the reverse of the
+; credits.txt file.  In other words, the font used to display
+; titles in credits.txt (the lines with the '@') is the font
+; used to display these quotes.  Putting an '@' at the start of
+; a line in this file will use the font used to display the
+; names in the credits.txt file (currently 104).
+;
+; Max line length with the current font (103) is about 63.
+; Anything longer than that won't be displayed, as it won't fit
+; on the screen.
+;
+; All lines are automatically centered on the display.
+;
+; See top of credits.txt for additional info.
+;
+@Citações do time Fallout:
+(Pressione ESC se você não quer ver um pouco de linguagem ofensiva)     
+
+
+Eu perguntei anatomicamente correto, mas não nu!
+- Tim C.
+     
+Eu aprecio o fato de que ?? só esta falando pra nos quando falado.
+- Leonard
+     
+Então agora que você passou a curva do aprendizado,
+você pode explodir pessoas muito mais rápido, certo?
+- Tim C.
+     
+Então quão rápido _voce_ pode desenhar um coelho?
+- JT
+
+Eu não o fiz hoje ainda porque eu estava esperando pela cabeça do Leonard.
+- Scott C.
+
+
+
+Você viu Steven Spielberg passar?
+- Tim C.
+Não, eu estava dando uma mijada.
+- Mark Harrison
+
+
+
+Blueberry muffins são uma das realizações honrosas do Homem.
+- JT
+     
+Fora do meu caminho. Eu sou uma porra de gênio.
+- Jason
+     
+Desmembramento e simplesmente inerentemente engraçado.
+- JT
+     
+Eu tinha um de madeira, mas o Spence o quebrou.
+- Jesse
+     
+Você pode dizer penis, mas você não pode dizer chupador de pau.
+- Leonard
+     
+É divertido fazer piada das pessoas que são estúpidas.
+- JT
+     
+Bosta é a coisa mais difícil de se fazer.
+- Michael
+     
+Não, eu não atirei em ninguém hoje.
+- JT
+
+
+
+Mas 15 é um número par!
+- Leonard
+Mas 15 não é divisível por 2.
+- Tim.
+Você sabe o que eu quis dizer. Eu quis dizer que 15 e primo.
+- Leonard
+
+
+
+Eu estarei continuando até a morte no fim do dia.
+- Michael
+     
+Eu estou cansado de olhar para aquele amendoim.
+- Tim C.
+     
+Eu só lavo meu nariz. É a única coisa que fica suja.
+- Fred
+     
+Eu vou fazer jiujitsu no traseiro dele.
+- Leonard
+     
+Eu terei que lembrar ou senão eu esquecerei.
+- Jesse
+     
+Você nunca sabe quais coisas malucas eu vou fazer com a minha mão.
+- Tim C.
+     
+Lamento que eu estou atrasado, mas Mary precisava de bolinhas de gude e eu perdi as minhas.
+- Chris T.
+     
+É divertido acertar as bolas das outras pessoas.
+- Tim C.
+     
+Eu vou matar este jogo.
+- Mark Morgan
+     
+Você quer ajuda pra pôr o seu biquíni?
+- Fred to Tim C.
+     
+Eu gosto de pega-los na bunda.
+- Tim C.
+     
+Eu preciso de mais camponeses!
+- Fred
+     
+Se eu não tivesse tido sexo, eu teria chamado o Tom ou Jesse.
+- Scotty
+     
+Você sabia que você pode falar com as pessoas que não tem cabeças?
+- Jesse
+     
+Nós teremos um garoto com corte de cabelo de tigela pra que assim você
+não possa dizer se e um garoto ou uma garota quando você esta matando.
+- Leonard
+     
+É apenas uma bandeira!
+- Scotty
+
+Eu direi a eles para me darem mais camponeses que explodem.
+- Fred
+     
+Você precisa de ajuda pra mudar as calcas dele?
+- Leonard
+     
+Eu estava chegando em casa e me aprontando get some,
+e eu lembrei que era um feriado.
+- Scotty
+     
+Eu preferiria beber uma garrafa de urina do que ISSO!
+- Scotty
+     
+Rusty quer qualquer corpo que ele possa ter.
+- Gus
+     
+Os do Nick estão gastos e despedaçando e laranja.
+- Jesse
+     
+Eu nunca deixo o trabalho interferir com minha cozinha.
+- Tim C.
+     
+Eu não quero que você pare de faze-los,
+porque é a única vez que eu consigo algum.
+- Scotty
+     
+Eu voto pelo Ódio.
+- Jason
+     
+Isso me lembra do Toxic Avenger, a versão sem censura.
+- Scotty
+     
+Você sabe, nos deveríamos trancar o sexo.
+- Chris T.
+     
+Como eu mato pessoas? Eu preciso de alguns corpos mortos.
+- Robert H.  
+     
+Não me cite nisso.
+- Leonard
+
+
+
+Eu tive um sonho esquisito envolvendo o Scotty,
+e eu não quero nem ao menos lembra-lo.
+- Jesse
+O que?!
+- Scotty
+
+
+
+Eu não sei o que nos vamos fazer a respeito disso.
+Eu creio que nos vamos ter que começar a cortar cabeças.
+- Tim C.
+     
+Bem, isso e verdadeiro e isso não é verdadeiro.
+- Gus
+     
+Mas eu gosto de ser uma mulher!
+- Scotty
+     
+Eu estou acostumado a brincar comigo mesmo.
+- Scotty
+     
+Essa é a essencia da arte -- fazer tudo funcionar junto.
+- Leonard
+     
+Eu disse a vocês que eu quebrei minha coisinha?
+- Dave
+     
+Eu quero mais aleatoriedade em minha aleatoriologia.
+- Robert H.
+     
+Eu não consigo terminar a IA sem drogas.
+- Tim C.
+     
+Por favor não façam piada do meu cocô.
+- Tim C.
+     
+Eu sei como diferenciar homens de mulheres agora.
+- Tim C.
+     
+Me desculpe, minha bunda fez isso.
+- Jesse
+
+
+
+Eu vou chutar você na bunda.
+- Robert H. to Tim C.
+Porque e macia como o traseiro de um bebe.
+- Jesse.
+Como você sabe?
+- Scotty
+
+
+
+Eu posso fazer o Troy. Eu costumava ser seu macaco.
+- Chris T.
+     
+Eu tive um uma vez, mas eu o bombeei muito forte e eu o quebrei.
+- Scotty
+     
+Eu o despi e limpei.
+- Scotty
+     
+Por que eu não posso ser uma lésbica?
+- Shanna
+     
+Eu imagino o que aquela coisa balançando ali é.
+- Shanna
+
+Eu preciso de mais inteligencia.
+- Nick
+
+Ao mesmo tempo, eu quero ter certeza de que
+eu não tenho pessoas mortas em pe.
+- Tim C.
+
+Eu modelaria o po, se eu pudesse.
+- Jason
+
+Eu estou no topo agora.
+- Evan
+
+Eu faço uma boa vaca.
+- Greg B.
+
+Se ele esta no topo de mim, eu vou ficar puta!
+- Shanna
+
+Se eu fosse uma garota, eu faria ele.
+- Evan
+
+Você não estará aqui quando eu sair.
+- Mike Krueger
+
+Bem, eu estava brincando com ele na noite passada mas eu
+não pude conseguir que alguma coisa saísse!
+- Mike Krueger
+
+Pare de sacudir meu macaco!
+- Matt Murakami
+
+Eu gosto de pessoas que dizem cocô.
+- Savina
+
+Não e instável, e apenas bugado.
+Há uma diferença.
+- Chris J.
+
+Em vez de ímpetos sexuais, eles obtém
+ímpetos de sugar sangue.
+- Scotty
+
+Eu gosto de garotinhos que usam saias.
+- Mike Krueger
+
+A iguana-no-espeto dele e muito comprida.
+- Leonard
+
+Fallout e "De Americanos, Para Americanos" e
+o resto do mundo pode just get stuffed.
+- Scotty
+
+Toda a Irmandade faz. Eles sabem como.
+- Nick
+
+Eu vou ensinar você a fazer script,
+isso será tortura.
+- Nick
+
+Sua pequena coisa parece melhor de qualquer modo.
+- Evan
+
+Ele me DISSE para toca-lá!
+- Nick
+
+Eu estou realmente assustado com as pessoas da Internet.
+Elas são todas burras. Exceto por aquele cara.
+- Scotty
+
+
+
+Eu não a toquei por dois meses.
+- Nick
+Bem, melhor você começar a toca-lá.
+- Evan
+
+
+
+Você nunca consegue ser paranoico o bastante.
+- Scotty
+
+Você deveria ser 14-18 quando você explode o Mestre.
+- Jess
+
+Ah, espere um minuto, fale com o Jesse.
+Jesse geralmente tem muitas drogas.
+- Scotty
+
+Eu queimo minha parte, para uma coisa.
+- Mark H.
+
+Eu estou geralmente muito mais feliz a respeito do
+jogo quando eu não estou jogando-o.
+- Scotty
+
+Você tem que ir com calma, esta é a minha primeira vez.
+- Dave Hendee
+
+Esta realmente rápido para se levantar.
+- Mark H.
+
+Eu posso achar o buraco sem procurar agora.
+- Ed H.
+
+Eu na verdade tive de ambos os modos, mas eu não tenho certeza do por que...
+- Dan S.
+
+Eu posso toca-lo em toda parte e parece funcionar.
+- Scotty
+
+OK, Eu estava dormindo com o Ian...
+- Gus
+
+Qual e o som de um homem trabalhando em outro?
+- Dan S.
+
+Eu odeio ser fodido.
+- Gus
+
+Eu acho que o nosso jogo tem um alto potencial
+por ser muito violento.
+- Jason A.
+
+Eu não vou ser derrotado por torta de queijo.
+- Tim C.
+
+Eu tenho um novo respeito por pés-de-cabra.
+(pausa)
+Bem, pelo menos não é sobre sexo.
+- Scotty
+
+Aquela coisa e um pouco muito
+grande para enfia-lá bem ali.
+- Matt G.
+
+
+
+Eu não vou fazer as vacas.
+- Dan S.
+As vacas estão felizes em ouvir isso.
+- Robert H.
+
+
+
+Mas eu amo pizza de viado.
+- Scotty
+
+Não vai haver mais crash. Na teoria.
+- Mark H.
+
+Eu não estava usando nada
+na primeira vez que eu venci o jogo.
+- Tim C.
+
+
+
+
+
+@FIM

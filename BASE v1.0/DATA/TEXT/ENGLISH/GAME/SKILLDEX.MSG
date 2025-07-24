@@ -1,0 +1,13 @@
+#
+#   Messages from skilldex.c
+#
+{100}{}{PERÍCIAS}
+{101}{}{VOLTAR}
+{102}{}{FURTIVO}
+{103}{}{GAZUA}
+{104}{}{ROUBAR}
+{105}{}{ARMADIL}
+{106}{}{1 SOCORR}
+{107}{}{MEDICINA}
+{108}{}{CIÊNCIA}
+{109}{}{REPARO}

@@ -1,0 +1,147 @@
+#
+#	 Messages from stat.c
+#
+#
+#	 STAT NAMES
+#
+{100}{}{Força}
+{101}{}{Percepção}
+{102}{}{Resistência}
+{103}{}{Carisma}
+{104}{}{Inteligência}
+{105}{}{Agilidade}
+{106}{}{Sorte}
+{107}{}{Máximo de Pontos de Dano}
+{108}{}{Máximo de Pontos de Ação}
+{109}{}{Classe de Armadura}
+{110}{}{Dano Desarmado}
+{111}{}{Dano Corpo a Corpo}
+{112}{}{Carregar Peso}
+{113}{}{Sequência}
+{114}{}{Taxa de Cura}
+{115}{}{Chance Crítica}
+{116}{}{Melhores Críticos}
+{117}{}{Começo do Dano}
+{118}{}{Começo do Dano por Laser}
+{119}{}{Começo do Dano por Fogo}
+{120}{}{Começo do Dano por Plasma}
+{121}{}{Começo do Dano por Eletricidade}
+{122}{}{Começo do Dano por PEM}
+{123}{}{Começo do Dano por Explosão}
+{124}{}{Resistência ao Dano}
+{125}{}{Resistência ao Dano por Laser}
+{126}{}{Resistência ao Dano por Fogo}
+{127}{}{Resistência ao Dano por Plasma}
+{128}{}{Resistência ao Dano por Eletricidade}
+{129}{}{Resistência ao Dano por PEM}
+{130}{}{Resistência ao Dano por Explosão}
+{131}{}{Resistência a Radiação}
+{132}{}{Resistência a Veneno}
+{133}{}{Idade}
+{134}{}{Gênero}
+{135}{}{Pontos de Vida Atuais}
+{136}{}{Nível de Veneno Atual}
+{137}{}{Nível de Radiação Atual}
+#
+#	 STAT DESCRIPTIONS
+#
+# @ Basic stats @
+#
+# Strength
+{200}{}{Força física bruta. Uma alta Força é boa para personagens físicos. Modifica: Pontos de Vida, Dano Corpo a Corpo e Peso máximo de Carga.}
+# Perception
+{201}{}{A capacidade de ver, ouvir, saborear e notar coisas incomuns. Uma alta Percepção é importante para atiradores de precisão. Modifica: Sequência de ação e modificadores de combate à distância.}
+# Endurance
+{202}{}{Resistência e robustez. Uma alta resistência ajudará a sobreviver em locais inapropriados. Modifica: Pontos de Vida, Resistência a Veneno e Rad., Taxa de Cura e pts. de vida adicionais por nível.}
+# Charisma
+{203}{}{Uma combinação de aparência e charme. Um alto Carisma é importante para personagens que desejam influenciar pessoas com palavras. Modifica: Reações de NPCs e preços de negociações.}
+# Intelligence
+{204}{}{Conhecimento, sabedoria e a capacidade de pensar rapidamente. Alta Inteligência é importante para qualquer personagem. Modifica: o número de pontos de perícias novos por nível, opções de diálogo e muitas outras perícias.}
+# Agility
+{205}{}{Coordenação e capacidade de se mover bem. Alta Agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Classe de Armadura, Sequência e muitas outras perícias.}
+# Luck
+{206}{}{Destino. Karma. Uma sorte extremamente alta ou baixa afetará o(a) personagem - de alguma forma. Eventos e situações serão alterados pela sorte (ou azar) do seu/sua personagem.}
+#
+# Derived/Non Derived stats
+#
+# Maximum Hit Points
+{207}{}{Quanto de dano seu/sua personagem pode receber antes de morrer. Se chegar a 0 HP ou menos, você estará morto.}
+# Maximum Action Points
+{208}{}{O número de ações que o(a) personagem pode realizar durante um turno de combate.}
+# Armor Class
+{209}{}{Modifica a chance de acertar esse/essa personagem.}
+# Unarmed Damage
+{210}{}{A quantidade de dano bônus que seu/sua personagem causa em combate corpo a corpo.}
+{211}{}{A quantidade de dano bônus que seu/sua personagem causa em combate corpo a corpo.}
+# Carry Weight
+{212}{}{A quantidade máxima de equipamento que seu/sua personagem pode carregar, em libras.}
+# Sequence
+{213}{}{Determina quão rapidamente seu/sua personagem pode reagir em um turno de combate.}
+# Healing Rate
+{214}{}{No final de cada dia, seu/sua personagem cura 1 HP para cada ponto de Taxa de Cura. Quando você descansa, você cura a cada seis horas.}
+# Critical Chance
+{215}{}{A chance de causar um golpe crítico em combate é aumentada por esta quantidade.}
+{216}{}{Melhores Críticos}
+{217}{}{Começo do Dano}
+{218}{}{Começo do Dano por Laser}
+{219}{}{Começo do Dano por Fogo}
+{220}{}{Começo do Dano por Plasma}
+{221}{}{Começo do Dano por Eletricidade}
+{222}{}{Começo do Dano por PEM}
+{223}{}{Começo do Dano por Explosão}
+# Damage Resistance
+{224}{}{Qualquer dano recebido é reduzido por este valor. A Resistência a Dano pode ser aumentada ao usar armaduras.}
+{225}{}{Resistência ao Dano por Laser}
+{226}{}{Resistência ao Dano por Fogo}
+{227}{}{Resistência ao Dano por Plasma}
+{228}{}{Resistência ao Dano por Eletricidade}
+{229}{}{Resistência ao Dano por PEM}
+{230}{}{Resistência ao Dano por Explosão}
+# Radiation Resistance
+{231}{}{A quantidade de radiação à qual você está exposto é reduzida por essa porcentagem. A Resistência à Radiação pode ser modificada pelo tipo de armadura usada e por químicos anti-radiação.}
+# Poison Resistance
+{232}{}{Reduz o dano de veneno por esta quantia.}
+{233}{}{Idade}
+{234}{}{Gênero}
+{235}{}{Pontos de Vida Atuais}
+{236}{}{Nível Atual de Veneno}
+{237}{}{Nível Atual de Radiação}
+#
+# STAT LEVEL DESCRIPTIONS
+#
+{301}{}{M. Ruim}
+{302}{}{Ruim}
+{303}{}{Pobre}
+{304}{}{Justo}
+{305}{}{Médio}
+{306}{}{Bom}
+{307}{}{M. Bom}         # Abbreviated for character editor
+{308}{}{Ótimo}
+{309}{}{Exclnte}
+{310}{}{Heroico}
+#
+#	 PC STAT NAMES
+#
+{400}{}{Pontos de Perícias não Gastos}
+{401}{}{Nível}
+{402}{}{Experiência}
+{403}{}{Reputação}
+{404}{}{Karma}
+#
+#	 PC STAT DESCRIPTIONS
+#
+# Unspent Skill Points
+{500}{}{Pontos ganhos ao subir de Nível. Podem ser usados para aumentar uma perícia em 1% ou uma perícia de identidade em 2%, por ponto gasto.}
+# Level
+{501}{}{A competência geral do(a) personagem do(a) jogador(a). Uma medida da sua experiência e habilidades.}
+# Experience
+{502}{}{Uma recompensa por completar tarefas específicas ou derrotar inimigos em combate. Mais pontos de experiência são necessários para atingir níveis mais altos.}
+# Reputation
+{503}{}{O que o mundo sabe sobre suas ações e feitos. Isso modificará as reações dos NPCs (personagens não jogáveis).}
+# Karma
+{504}{}{Os efeitos das ações que você tomou. Informações importantes serão exibidas.}
+
+#
+#  Experience-gain messages
+#
+{600}{}{Você subiu de nível.}

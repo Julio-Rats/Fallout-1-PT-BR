@@ -1,0 +1,41 @@
+#
+#   Messages from trait.c
+#
+#
+#   TRAIT NAMES
+#
+{100}{}{Metabolismo Rápido}
+{101}{}{Brutamonte}
+{102}{}{Estatura Pequena}
+{103}{}{Mao Única}
+{104}{}{Destreza}
+{105}{}{Kamikaze}
+{106}{}{Mao Pesada}
+{107}{}{Tiro Rápido}
+{108}{}{Bag. Sangrenta}
+{109}{}{Azarado}
+{110}{}{Boa Natureza}
+{111}{}{Dep. a Químicos}
+{112}{}{Res. a Químicos}
+{113}{}{Pessoa Noturna}
+{114}{}{Hábil}
+{115}{}{Dotado}
+#
+#   TRAIT DESCRIPTIONS
+#
+{200}{}{Sua taxa metabólica é o dobro da normal. Isso significa que você é muito menos resistente à radiação e veneno, mas seu corpo se cura mais rápido.}
+{201}{}{Um pouco mais devagar, mas um pouco maior. Você pode não acertar com tanta frequência, mas eles sentirão quando você acertar! Seus pontos de ação totais são reduzidos, mas sua Força aumentou.}
+{202}{}{Você não é tão grande quanto os outros moradores do Vault, mas isso nunca te impediu. Você não pode carregar tanto, mas é mais ágil.}
+{203}{}{Uma de suas mãos é muito dominante. Você se destaca com armas de uma mão, mas armas de duas mãos causam problemas.}
+{204}{}{Seus ataques demonstram muita finesse. Você não causa tanto dano, mas causa mais acertos críticos.}
+{205}{}{Ignorando qualquer ameaça, você consegue agir muito mais rápido em uma rodada. Isso reduz sua classe de armadura para apenas o que está usando, mas você faz sequências mais rápidas em combate.}
+{206}{}{Você bate mais forte, não melhor. Seus ataques são muito brutais, mas sem finesse. Você raramente causa um bom crítico, mas sempre causa mais dano no combate corpo a corpo.}
+{207}{}{Você não tem tempo para mirar em um ataque direcionado, pois ataca mais rápido do que pessoas normais. Usar uma arma custa um ponto de ação a menos.}
+{208}{}{(Bagunça Sangrenta) Por alguma estranha reviravolta do destino, as pessoas ao seu redor morrem de forma violenta. Você sempre vê a pior forma de uma pessoa morrer.}
+{209}{}{A parte boa é que todos ao seu redor têm mais falhas críticas no combate, a parte ruim é que você também tem!}
+{210}{}{Você estudou habilidades menos combativas enquanto crescia. Perícias de combates começam em níveis mais baixo, mas 1º Socorros, Medicina, Discurso e Negociação são substancialmente melhoradas.}
+{211}{}{(Dependência a Químicos) Você sente mais facilmente a necessidade de químicos. Sua chance de viciar em químicos é o dobro do normal, mas você se recupera mais rapidamente dos efeitos negativos deles.}
+{212}{}{(Resistência a Químicos) Químicos só te afetam metade do tempo normal, mas sua chance de ficar viciado é também apenas 50% do normal.}
+{213}{}{Como uma pessoa noturna, você fica mais acordado quando o sol se põe. Sua Inteligência e Percepção são melhoradas à noite, mas diminuídas durante o dia.}
+{214}{}{Como você dedicou mais tempo ao aprimoramento das suas habilidades, você começa com níveis melhores de perícias. Porém você ganhará um benefícios a cada quatro níveis ao invés de um a cada três níveis.}
+{215}{}{Você tem mais habilidades inatas do que a maioria. Suas estatísticas basicas são +1 em cada uma, mas você perde -10% em todas as perícias no início e recebe 5 pontos de perícia a menos por nível.}

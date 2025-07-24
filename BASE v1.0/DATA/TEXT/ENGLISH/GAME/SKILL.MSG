@@ -1,0 +1,100 @@
+#
+#   Messages from skill.c
+#
+#
+#   SKILL NAMES
+#
+{100}{}{Armas Pequenas}
+{101}{}{Armas Grandes}
+{102}{}{Armas de Energia}
+{103}{}{Desarmado}
+{104}{}{Armas Brancas}
+{105}{}{Arremesso}
+{106}{}{Primeiros Socorros}
+{107}{}{Medicina}
+{108}{}{Furtivo}
+{109}{}{Gazua}
+{110}{}{Roubar}
+{111}{}{Armadilhas}
+{112}{}{Ciência}
+{113}{}{Reparo}
+{114}{}{Discurso}
+{115}{}{Negociação}
+{116}{}{Jogatina}
+{117}{}{Homem ao Ar Livre}
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{O uso, cuidado e conhecimento geral sobre armas de fogo pequenas. Pistolas, SMGs e rifles.}
+{201}{}{A operação e manutenção de armas realmente grandes. Miniguns, Lançadores de Foguetes, Lanças-chamas e similares.}
+{202}{}{O cuidado e operação de armas baseadas em energia. Como armar e operar armas que utilizam tecnologia laser ou plasma.}
+{203}{}{Uma combinação de artes marciais, boxe e outras artes marciais corpo a corpo. Combate com mãos e pés.}
+{204}{}{Uso de armas a curta distância no combate corpo a corpo, ou uso de armas Brancas. Facas, marretas, lanças, bastões e assim por diante.}
+{205}{}{A habilidade com armas de longo alcance impulsionadas por músculos. Facas, lanças e granadas.}
+{206}{}{Habilidade geral de cura. Usado para curar pequenos cortes, arranhões e outros problemas menores. Em termos de jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que apenas o descanso.}
+{207}{}{A cura de ferimentos graves e membros comprometidos. Sem esta habilidade, levará um período muito mais longo para restaurar membros comprometidos ao uso.}
+{208}{}{Movimento silencioso e a habilidade de permanecer despercebido. Se bem-sucedido, você será muito mais difícil de localizar. Você não pode correr e se esconder ao mesmo tempo.}
+{209}{}{A habilidade de abrir fechaduras sem a chave apropriada. O uso de chaves ou chaves eletrônicas aumentará muito essa habilidade.}
+{210}{}{A habilidade de fazer as coisas dos outros se tornarem suas. Pode ser usada para roubar de pessoas ou lugares.}
+{211}{}{Encontrar e remover armadilhas. Também o estabelecimento de explosivos para fins de demolição.}
+{212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, física e geologia.}
+{213}{}{A aplicação prática da habilidade de Ciência. O conserto de equipamentos, máquinas e eletrônicos quebrados.}
+{214}{}{A habilidade de se comunicar de maneira prática e eficiente. A habilidade de convencer os outros de que sua posição está correta. A capacidade de mentir e não ser pego.}
+{215}{}{Negociação e tarefas relacionadas ao comércio. A habilidade de conseguir melhores preços para os itens que você vende e preços mais baixos para os itens que você compra.}
+{216}{}{O conhecimento e as habilidades práticas relacionadas ao jogo. A habilidade com cartas, dados e outros jogos.}
+{217}{}{Conhecimento prático sobre a vida ao ar livre e a capacidade de viver da terra. O conhecimento sobre plantas e animais.}
+#
+#   SKILL ATTRIBUTES
+#
+#   Updated: 6/5/97 KSW
+#
+{300}{}{+ AG}
+{301}{}{+ AG}
+{302}{}{+ AG}
+{303}{}{+ (AG + FO)/2}
+{304}{}{+ (AG + FO)/2}
+{305}{}{+ AG}
+{306}{}{+ (PE + IN)/2}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ AG}
+{309}{}{+ (PE + AG)/2}
+{310}{}{+ AG}
+{311}{}{+ (PE + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CA)}
+{315}{}{+ (2 x CA)}
+{316}{}{+ (3 x ST)}
+{317}{}{+ (RE + IN)/2}
+#
+#   Skill Use Text
+#
+{500}{}{Você cura %d pontos de dano.}
+{501}{}{Você já parece saudável.}
+{502}{}{%s já parece saudável.}
+{503}{}{Você falha em fazer qualquer cura.}
+{505}{}{Você ganha %d XP por aprimorar suas habilidades.}
+{510}{}{\nskill_use: habilidade inválida usada.}
+{512}{}{Você não pode curar os mortos.}
+{513}{}{Deixe os mortos descansarem em paz.}
+{514}{}{Esta morto, supere.}
+{520}{}{Você cura seu/sua %s.}
+{521}{}{Você cura o %s.}
+{525}{}{Você falha em curar seu/sua %s.}
+{526}{}{Você falha em curar o %s.}
+{530}{}{olho danificado}    # Lines 530-534 are the endings to lines 525 & 526.
+{531}{}{braço esquerdo incapacitado}
+{532}{}{braço direito incapacitado}
+{533}{}{perna direita incapacitada}
+{534}{}{perna esquerda incapacitada}
+{550}{}{Você falha em abrir a tranca.}
+{551}{}{Você falha em achar quaisquer armadilhas.}
+{552}{}{Você falha em aprender qualquer coisa.}
+{553}{}{Você não pode reparar isso.}
+{570}{}{Você é pego roubando o %s.}
+{571}{}{Você rouba o %s.}
+{572}{}{Você é pego plantando a %s.}
+{573}{}{Você planta a %s.}
+{590}{}{Você sobrecarregou seu/sua personagem com essa habilidade.  Espere um pouco.}
+{591}{}{Você esta muito cansado.}
+{592}{}{O esforço poderia matar você.}
