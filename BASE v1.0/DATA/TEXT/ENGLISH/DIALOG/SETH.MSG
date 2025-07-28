@@ -1,0 +1,127 @@
+{100}{}{Você vê Seth, lider dos guardas de Shady Sands.}
+{101}{}{Você! Você vem atormentando nossa vila há tempo demais.
+ Eu mesmo vou te matar!}
+{102}{}{Nada bom vem do seu tipo. Eu matarei você e livrarei
+ a terra devastada de mais um monstro.}
+{103}{}{Não é muito esperto, né? Então fique de olho nos Radscorpions
+ e não se meta em encrenca.}
+{104}{}{Escorpião!}
+{105}{}{Tchau-tchau.}
+{106}{}{Você parece um daqueles Saqueadores. Nós mantemos uma vigilância
+ proxima aqui em Shady Sands. O que você quer?}
+{107}{}{Eu quero todo o seu dinheiro!}
+{108}{}{Eu gostaria de algumas informações.}
+{109}{}{Bloop?}
+{110}{}{Bom dia. Meu nome é Seth. Como eu posso ajudar você?}
+{111}{}{Eu gostaria de algumas informações.}
+{112}{}{Wub-wub!}
+{113}{}{Informacao? Do que você quer saber a respeito?}
+{114}{}{O que eu posso fazer para você?}
+{115}{}{Eu quero saber sobre os Radscorpions.}
+{116}{}{Eu quero saber sobre os Saqueadores.}
+{117}{}{Eu quero saber sobre este lugar.}
+{118}{}{Me leve até a caverna dos Radscorpions.}
+{119}{}{Caverna!}
+{120}{}{Nada mais, obrigado.}
+{121}{}{O que você quer agora?}
+{122}{}{Aqueles malditos Radscorpions estão atrás do nosso Brahmin desde que nos mudamos para cá.
+ Não passa uma semana sem que alguém seja envenenado tentando mantê-los fora dos
+ cercados. Semana passada, levaram meu irmão Jarvis. Razlo, nosso médico, está procurando um
+ antídoto o mais rápido possível. Ei, se você tem condições de nos ajudar, por que não
+ fala com o nosso líder, Aradesh?}
+{123}{}{Há vários grupos de saqueadores. Eu organizo guardas como o Ian
+ para ajudar a enfrentá?los. Há um bando a sudeste daqui. Cuidado com eles.}
+{124}{}{Shady Sands é uma comunidade pacífica. Temos nosso próprio sistema de irrigação,
+ para que possamos cultivar nossa própria comida. Se não fôssemos infestados
+ de invasores e Radscorpions, não teríamos problemas.}
+{125}{}{Tem certeza de que quer que eu lhe dê instruções sobre como chegar às cavernas do Radscorpion? Não posso ir, mas posso lhe mostrar o caminho.}
+{126}{}{Sim.}
+{127}{}{Não.}
+{128}{}{Certo, me avise quando estiver pronto para ir para as cavernas.}
+{129}{}{[Feito]}
+{130}{}{Uh-huh.}
+{131}{}{Uh-uh.}
+
+{200}{}{Nossa cidade inteira é grata a você por destruir os
+ Radscorpions. Muito obrigado.}
+{201}{}{Graças a você, agora estamos seguros deles.}
+{202}{}{Tem certeza de que quer voltar para lá? É uma longa jornada,
+ e você eliminou a ameaça deles.}
+{203}{}{Certo. Aproveite sua estadia aqui.}
+{204}{}{Bem-vindo a Shady Sands, estranho. Por favor, guarde essa arma
+ enquanto estiver aqui.}
+{205}{}{Olá, estranho. Bem-vindo ao Shady Sands.}
+{206}{}{Você deveria falar com Aradesh, nosso líder. Ele gosta de conhecer
+ todos os nossos visitantes. Ele deve estar na nossa Prefeitura, o prédio
+ ao sul.}
+
+{300}{}{Graças a Dharma você está aqui, viajante. Minha garota... uh, Tandi,
+ filha de Aradesh, foi sequestrada. Acreditamos que os invasores a tenham capturado.}
+{301}{}{Aonde estão estes Saqueadores?}
+{302}{}{Uau. Que pena. Bom, te vejo mais tarde.}
+{303}{}{Me desculpe, gostaria de poder ajudar.}
+{304}{}{Isso é terrível, mas preciso cuidar desses 
+ escorpiões radioativos primeiro. Eles representam um perigo para toda a sua cidade.}
+{305}{}{Cadê a Tandi? Por que você não a resgatou?}
+{306}{}{Preciso de mais suprimentos antes de poder enfrentar esses caras.}
+{307}{}{Decidi que a pequena vagabunda não vale o risco.}
+{308}{}{Estou trabalhando nisso.}
+{309}{}{Pensei em cuidar do seu problema com os Radscorpions primeiro.}
+{310}{}{Achei que você fosse uma boa pessoa. Que assim seja.}
+{311}{}{Eles estão a sudeste. Por favor, depressa. Não sei o que farão com ela.}
+{312}{}{Okay, eu a trarei de volta para você.}
+{313}{}{Eu não disse que ajudaria, tenho meus próprios problemas para me preocupar.}
+{314}{}{Quanto vale esse trabalho para você?}
+{315}{}{Preciso ajudar meu próprio povo. Eu lamento.}
+{316}{}{Eu sabia que você era um mercenário sem coração. Pagaremos bem por salvá-la,
+ fique tranquilo.}
+{317}{}{Se você não vai me dizer quanto vai me dar, eu não vou
+ aceitar o emprego.}
+{318}{}{Tudo bem, eu cuido disso para você.}
+{319}{}{Lamento, eu tenho que ir.}
+{320}{}{Seu bastardo!}
+{321}{}{}
+{322}{}{Eu queria que você salvasse a Tandi primeiro, estranho, mas, se estiver disposto a nos ajudar
+ com os Radscorpions, acho que vou lhe mostrar o caminho.}
+{323}{}{Certo, leve-me aos Radscorpions.}
+{324}{}{Eu mudei minha mente. Tchau.}
+{325}{}{Ótimo. Volto em breve, e você pode me levar.}
+
+{1000}{}{Khans}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Agua}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Sands}
+{1011}{}{Escorpiao}
+{1012}{}{Radscorpion}
+{1013}{}{Escorpioes}
+{1014}{}{Radscorpions}
+
+{1100}{}{Eles são um grupo sem lei que finge ser pessoas do
+ passado distante.}
+{1101}{}{Ele lidera os Khans. Ele é um dos homens mais perigosos que
+ já pôs os olhos em Shady Sands. Ele lidera os clãs de invasores com
+ punho pesado.}
+{1102}{}{São 4 a 6 dias a sudoeste. Às vezes, há boas negociações, mas
+ na maioria das vezes, eles tentam nos enganar.}
+{1103}{}{Você está pisando nela.}
+{1104}{}{Bem mais ao sul que Junktown. O Hub é a maior cidade
+ de que já ouvi falar. Deve ter pelo menos mil pessoas lá.}
+{1105}{}{Lamento, eu não posso ajudar você.}
+{1106}{}{Ela é filha de Aradesh. Um dia ela poderá nos liderar, mas ela
+ precisa aprender a moderar seus costumes.}
+{1107}{}{Ele é o líder da nossa comunidade e um verdadeiro herói. Você sempre pode
+ encontrá-lo trabalhando no salão comunitário.}
+{1108}{}{Sou eu. Trabalho com Aradesh para garantir que todos estejam seguros.}
+{1109}{}{Nosso médico. Procure-o se estiver ferido.}
+{1110}{}{Você está pisando nela.}
+{1111}{}{Criaturas desagradáveis com um veneno mortal.}
+{1112}{}{Criaturas desagradáveis com um veneno mortal.}
+{1113}{}{Criaturas desagradáveis com um veneno mortal.}
+{1114}{}{Criaturas desagradáveis com um veneno mortal.}
