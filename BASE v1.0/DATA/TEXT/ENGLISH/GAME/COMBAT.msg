@@ -88,7 +88,7 @@
 {1154}{}{perna dianteira direita}
 {1155}{}{perna dianteira esquerda}
 {1156}{}{olho}
-{1157}{}{úbere}
+{1157}{}{tetas}
 {1158}{}{não-nomeado}
 #
 # dogs

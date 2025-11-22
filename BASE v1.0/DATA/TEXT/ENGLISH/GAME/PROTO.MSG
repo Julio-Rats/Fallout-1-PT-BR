@@ -152,9 +152,9 @@
 {519}{}{%s %s }
 {520}{}{Você parece: %s.}
 {521}{}{%s %s.}
-{522}{}{Ele parece: %s }
-{523}{}{Ela parece: %s }
-{524}{}{Parece: %s }
+{522}{}{Ele parece: }
+{523}{}{Ela parece: }
+{524}{}{Parece: }
 # (note: hps are short for hit-points)
 {525}{}{%s tem %d/%d PV.}
 # (note: this is for guns that have ammo)
@@ -184,7 +184,7 @@
 # Use text messages
 #
 {580}{}{Você usa o(a) %s.}
-{581}{}{Você usa o(a) %s em %s.}
+{581}{}{Você usa o(a) %s em(no) %s.}
 {582}{}{Isso não faz nada.}
 {583}{}{Para seu desgosto, você percebe que já está morto(a).}
 {584}{}{Ao se agachar, você percebe que já está morto(a).}

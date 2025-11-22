@@ -1,0 +1,2 @@
+{100}{}{Você vê um membro da gangue dos ghouls.}
+{101}{}{Você não deveria estar aqui! Cara, vou ter que te dar uma surra.}

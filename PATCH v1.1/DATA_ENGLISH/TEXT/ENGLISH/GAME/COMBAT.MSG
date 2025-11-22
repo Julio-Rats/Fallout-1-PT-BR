@@ -745,4 +745,4 @@
 {6523}{}{, making you cringe}
 {6524}{}{. You cup your groin and fall to the floor in pain}
 {6525}{}{. The pain is sufficient to knock you out. Ouch}
-{652}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}
+{6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}

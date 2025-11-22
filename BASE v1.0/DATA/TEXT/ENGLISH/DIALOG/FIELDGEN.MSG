@@ -1,0 +1,2 @@
+{100}{}{Sua tentativa de reconectar o emissor de campo falhou.}
+{101}{}{Você desliga o emissor de campo.}

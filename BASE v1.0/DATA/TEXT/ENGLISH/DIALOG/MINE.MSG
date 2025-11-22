@@ -1,0 +1,2 @@
+{100}{}{Você avista uma mina terrestre habilmente posicionada.}
+{101}{}{Você pisa numa mina terrestre. BOOM!}

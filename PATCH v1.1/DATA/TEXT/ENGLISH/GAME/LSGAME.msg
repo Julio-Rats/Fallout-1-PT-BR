@@ -21,10 +21,10 @@
 {110}{}{CARREGAR JOGO}
 {111}{}{- VAZIO -}
 {112}{}{- ARQUIVO CORROMPIDO -}
-{113}{}{- VERSÃO ANTIGA -}
+{113}{}{- VERSÃO DIFERENTE -}
 {114}{}{Vazio.}
 {115}{}{Erro!}
-{116}{}{Versão antiga.}
+{116}{}{Versão diferente.}
 {117}{}{JAN}                            # Months
 {118}{}{FEV}
 {119}{}{MAR}
@@ -39,12 +39,12 @@
 {128}{}{DEZ}
 {129}{}{Nível}
 {130}{}{DESCRIÇÃO}
-{131}{}{Ja existe um jogo salvo, sobrescrever?}
+{131}{}{Já existe um jogo salvo, sobrescrever?}
 {132}{}{Erro ao salvar o jogo!}             # Line 1
 {133}{}{Incapaz de salvar o jogo.}          # Line 2
 {134}{}{Erro ao carregar o jogo!}           # Line 1
 {135}{}{Incapaz de carregar o jogo.}        # Line 2
-{136}{}{O arquivo do jogo salvo está em uma versão antiga.}
+{136}{}{O arquivo do jogo está numa versão diferente.}
 {137}{}{Mapa}
 
 {140}{}{Jogo Salvo.}

@@ -30,7 +30,7 @@ Este repositório reúne a tradução para o português brasileiro de *Fallout 
 
 ## 🚀 Como Instalar e Testar Tradução
 
-1. Selecione sua **versão** e **plataforma**:
+1. Selecione sua **versão** e **plataforma** (Template por enquanto, links não funcionais):
 
    * **v1.0**
 
@@ -42,7 +42,6 @@ Este repositório reúne a tradução para o português brasileiro de *Fallout 
      * [Windows](#) (`fallout1-ptbr-1.1-windows.zip`)
    * **v1.2**
 
-     * [MS‑DOS](#) (`fallout1-ptbr-1.2-msdos.zip`)
      * [Windows](#) (`fallout1-ptbr-1.2-windows.zip`)
 
 2. Extraia o conteúdo do ZIP na pasta raiz de instalação do *Fallout 1*, sobrescrevendo os arquivos originais.
@@ -55,10 +54,10 @@ Quer ajudar a melhorar a tradução? Siga estes passos:
 
 1. **Fork** este repositório.
 2. Crie uma branch com sua alteração: `git checkout -b minha-traducao`.
-3. Edite os arquivos em `msg/`, mantendo:
+3. Edite os arquivos em `.msg`, mantendo:
 
    * **Nome** e **hierarquia** originais.
-   * **Tags** e **chaves** internas inalteradas (ex.: `{0}`, `\n`).
+   * **Tags** e **chaves** internas inalteradas (ex.: `{125}{}{Ola Mundo}`).
 4. Grave em **ISO‑8859‑1** (UTF‑8 somente para README e LICENSE).
 5. Abra um **Pull Request**, descrevendo suas mudanças e referenciando uma issue, se houver.
 

@@ -1,0 +1,2 @@
+{100}{}{Embora a fruta aqui pareça anormal, você a reconhece
+ e se lembra de que ela tem propriedades curativas.}

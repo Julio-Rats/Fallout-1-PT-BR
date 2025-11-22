@@ -1,0 +1,2 @@
+{100}{}{Essa fechadura dessa porta está armada com uma armadilha.}
+{101}{}{A armadilha foi desativada.}

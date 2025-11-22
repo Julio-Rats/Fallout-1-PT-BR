@@ -1,0 +1,2 @@
+{100}{}{Você vê um tapete esfarrapado.}
+{101}{}{Você fica pensando em que tipo de material poderia ter sido usado para produzir esse tapete.}

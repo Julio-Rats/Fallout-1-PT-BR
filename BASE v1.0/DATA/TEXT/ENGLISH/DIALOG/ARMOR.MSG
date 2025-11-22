@@ -1,0 +1,9 @@
+{100}{}{Você vê uma Power Armor danificada.}
+{101}{}{Você não pode usar isto até que esteja reparada.}
+{102}{}{Parece estar faltando uma peça que você não consegue encontrar.}
+{103}{}{É óbvio que você ainda não tem a habilidade necessária para consertar isso.}
+{104}{}{Você conserta a armadura.}
+{105}{}{Isso não faz nada.}
+{106}{}{Você falha em consertar a armadura.}
+{107}{}{Você ganha }
+{108}{}{ pontos de experiência por consertar a power armor.}

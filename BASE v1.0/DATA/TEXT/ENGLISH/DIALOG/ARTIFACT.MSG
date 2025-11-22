@@ -1,0 +1,9 @@
+{100}{}{Isso parece estranho. Você acha que pode ser aquilo que a Irmandade
+ lhe enviou para recuperar.}
+{101}{}{Pip Boy exibe: Arquivo encontrado no sistema. Download abortado.}
+{102}{}{Pip Boy exibe: Baixando dados do disco.}
+{103}{}{Você vê um disco que Sophia lhe deu.}
+{104}{}{Você vê um disco que Maxson lhe deu.}
+{105}{}{Você vê um disco estranho vindo da Base Militar.}
+{106}{}{Você vê um estranho holodisco.}
+{107}{}{Você vê um disco de localização da Vault.}

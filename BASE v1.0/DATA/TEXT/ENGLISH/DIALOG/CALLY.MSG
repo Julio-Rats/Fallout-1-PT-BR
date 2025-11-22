@@ -1,0 +1,2 @@
+{100}{}{Você vê a Cally.}
+{101}{}{Você é esperto o suficiente para entrar aqui sem ser visto, mas burro o suficiente para se mostrar? Que pena!}

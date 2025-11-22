@@ -14,7 +14,7 @@
 {800}{}{Supervisor da Vault}
 {900}{}{Super Mutante}
 {901}{}{}
-{1000}{}{Rato Toupeira Mais Grande}
+{1000}{}{Rato Toupeira Grande}
 {1001}{}{}
 {1100}{}{Radscorpion}
 {1101}{}{Radscorpion}
@@ -72,7 +72,7 @@
 {4501}{}{}
 {4600}{}{Escriba}
 {4700}{}{Supervisor}
-{4800}{}{Ratazana}
+{4800}{}{Rato}
 {4801}{}{}
 {4900}{}{Gizmo}
 {5000}{}{Mestre}
@@ -242,7 +242,7 @@
 {16301}{}{}
 {16400}{}{Grande Brahmin}
 {16401}{}{}
-{16500}{}{Cria da Deathclaw}
+{16500}{}{Ninho de Deathclaw}
 {16501}{}{}
 {16600}{}{Radscorpion Vil}
 {16601}{}{}

@@ -1,0 +1,2 @@
+{100}{}{Você percebe algumas frutas com formato estranho dentro do pote.}
+{101}{}{Você pega uma fruta que não pertence ao pote.}

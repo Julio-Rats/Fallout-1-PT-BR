@@ -10,7 +10,7 @@
 # ° Main option panel °
 #
 # Buttons
-{0}{}{SALVAR JOGO}
+{0}{}{SALVAR}
 {1}{}{CARREGAR}
 {2}{}{PREFERÊNCIAS}
 {3}{}{SAIR DO JOGO}

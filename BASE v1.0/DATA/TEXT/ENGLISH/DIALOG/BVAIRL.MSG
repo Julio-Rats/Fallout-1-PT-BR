@@ -1,0 +1,2 @@
+{100}{}{Você percebe que há um armário embutido na parede leste,
+ exatamente como no seu próprio cofre.}

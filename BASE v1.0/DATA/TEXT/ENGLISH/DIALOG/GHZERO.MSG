@@ -1,0 +1,2 @@
+{100}{}{Você vê um guarda ghoul.}
+{101}{}{Estou de plantão. Se quiser ver o Set, terá que entrar.}

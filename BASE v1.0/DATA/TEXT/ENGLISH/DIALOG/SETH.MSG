@@ -15,14 +15,14 @@
 {110}{}{Bom dia. Meu nome é Seth. Como eu posso ajudar você?}
 {111}{}{Eu gostaria de algumas informações.}
 {112}{}{Wub-wub!}
-{113}{}{Informacao? Do que você quer saber a respeito?}
+{113}{}{Informações? Do que você quer saber a respeito?}
 {114}{}{O que eu posso fazer para você?}
 {115}{}{Eu quero saber sobre os Radscorpions.}
 {116}{}{Eu quero saber sobre os Saqueadores.}
 {117}{}{Eu quero saber sobre este lugar.}
 {118}{}{Me leve até a caverna dos Radscorpions.}
 {119}{}{Caverna!}
-{120}{}{Nada mais, obrigado.}
+{120}{}{Nada mais, obrigado(a).}
 {121}{}{O que você quer agora?}
 {122}{}{Aqueles malditos Radscorpions estão atrás do nosso Brahmin desde que nos mudamos para cá.
  Não passa uma semana sem que alguém seja envenenado tentando mantê-los fora dos
@@ -30,7 +30,7 @@
  antídoto o mais rápido possível. Ei, se você tem condições de nos ajudar, por que não
  fala com o nosso líder, Aradesh?}
 {123}{}{Há vários grupos de saqueadores. Eu organizo guardas como o Ian
- para ajudar a enfrentá?los. Há um bando a sudeste daqui. Cuidado com eles.}
+ para ajudar a enfrentá-los. Há um bando a sudeste daqui. Cuidado com eles.}
 {124}{}{Shady Sands é uma comunidade pacífica. Temos nosso próprio sistema de irrigação,
  para que possamos cultivar nossa própria comida. Se não fôssemos infestados
  de invasores e Radscorpions, não teríamos problemas.}

@@ -7,8 +7,8 @@
 {1}{}{Versão de demonstração}
 {2}{}{Personagem padrão será usado.}
 {3}{}{Captura de tela salva.}
-{4}{}{"Quick Load" carregado com sucesso.}
-{5}{}{"Quick Save" salvo com sucesso.}
+{4}{}{Carregamento rápido: jogo carregado com sucesso.}
+{5}{}{Salvamento rápido: jogo salvo com sucesso.}
 {6}{}{Tempo limite da demonstração excedido.}
 {7}{}{Pipboy não está disponível em combate!}
 {8}{}{Erro ao salvar captura de tela.}
@@ -17,7 +17,7 @@
 {11}{}{CARREGAR}
 {12}{}{CRÉDITOS}
 {13}{}{SAIR}
-{14}{}{Copyright(c) 1997 Interplay Productions. All rights reserved.  Trad. JulioRats V1.2}
+{14}{}{Copyright(c) 1997 Interplay Productions. All rights reserved. Trad. JulioRats V1.2}
 {15}{}{Pontos de Ação}
 {16}{}{Pontos de Vida}
 {17}{}{Sensor de movimento não está instalado.}

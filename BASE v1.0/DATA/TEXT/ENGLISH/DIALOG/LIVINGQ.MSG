@@ -1,0 +1,2 @@
+{100}{}{Estas são as acomodações do Refúgio. É um projeto padrão
+ da época anterior à Guerra.}

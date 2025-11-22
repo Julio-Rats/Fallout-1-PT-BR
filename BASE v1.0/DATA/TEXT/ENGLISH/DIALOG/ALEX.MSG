@@ -1,0 +1,19 @@
+{100}{}{Você vê: Alex, o Regulador do turno noturno.}
+# TRANSLATION NOTE
+# The player-character's name is inserted after line 101.
+{101}{}{Vamos entre, }
+{102}{}{Lamento, eu não posso deixar você entrar. Volte pela manhã.}
+{103}{}{Pare! Quem está aí?}
+{104}{}{Eu sou apenas um viajante. Eu gostaria de entrar.}
+{105}{}{Não é da sua conta.}
+{106}{}{Hum, desculpe. Vou embora.}
+{107}{}{Estranhos não são permitidos dentro das paredes de Adytum, por ordem do prefeito.}
+{108}{}{Eu apenas preciso de um lugar para dormir a noite.}
+{109}{}{Sinto muito, mas não posso deixar você entrar. Dê meia-volta e vá embora ou terei que
+ atirar.}
+{110}{}{Olha, é meu dever e minha honra servir como vigia noturno de Adytum,
+ então é da minha conta. Dê meia-volta e vá embora, ou terei que falar sério.}
+{111}{}{Saia da minha frente, John Law.}
+{112}{}{Tente voltar pela manhã.}
+{113}{}{Ah, já basta. Agora a coisa ficou séria!}
+{114}{}{Nghgh.}

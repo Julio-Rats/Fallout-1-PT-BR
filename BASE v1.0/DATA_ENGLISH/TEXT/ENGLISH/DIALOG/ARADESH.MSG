@@ -280,8 +280,6 @@
 {1014}{}{Tower}
 {1015}{}{Seth}
 
-
-
 {1100}{Ara_49}{I am he. I lead this humble town of Shady Sands.}
 {1101}{Ara_49A}{Dharma was a great, religious man. You would do well to
  listen closely to his sayings.}

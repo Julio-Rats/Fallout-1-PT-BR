@@ -100,10 +100,10 @@
 {307}{}{Res. a Rad}
 {308}{}{Sequência}
 {309}{}{Taxa de Cura}
-{310}{}{Chance Critica}
+{310}{}{Chance Crítica}
 {311}{}{Carregar Peso}
 {312}{}{Envenenado}
-{313}{}{Irradiado}
+{313}{}{Irradiando}
 {314}{}{Dano no Olho}
 {315}{}{Braço Dir Mutilado}
 {316}{}{Braço Esq Mutilado}
@@ -114,9 +114,9 @@
 # Damage info texts
 #
 # Poisoned
-{400}{}{Seu/Sua personagem foi envenenado. O veneno fará dano por um período de tempo até que seja curado ou ele passe do seu sistema.}
+{400}{}{Seu/Sua personagem foi envenenado(a). O veneno causará dano ao longo do tempo, até que seja curado ou eliminado do seu organismo.}
 # Radiation
-{401}{}{Seu/Sua personagem esta sofrendo de uma quantia significante de envenenamento por radiação. Maior o dano por radiação, mais mortal o efeito.}
+{401}{}{Seu/Sua personagem está sofrendo de uma quantia significante de envenenamento por radiação. Maior o dano por radiação, mais mortal o efeito.}
 # Eye Damage
 {402}{}{Isto significa que seu/sua personagem foi seriamente atingido em um ou ambos dos seus olhos. Isto afeta sua Percepção.}
 # Crippled right arm
@@ -250,7 +250,7 @@
 {1103}{}{Você matou crianças, a juventude da terra devastada. Isto é considerado ser uma coisa realmente ruim. Sua pessoa má, má.}
 {1104}{}{Você aprecia totalmente a Nuka-Cola, o pop do mundo pós-nuclear.}
 {1105}{}{Você está viciado na droga Buffout. Você deve tomar este químico numa base diária ou sofrer os efeitos de abstinência.}
-{1106}{}{Você esta sofrendo do vício em Mentats. Você deve tomar este químico particular ou sofrer com o efeito rebote.}
+{1106}{}{Você está sofrendo do vício em Mentats. Você deve tomar este químico particular ou sofrer com o efeito rebote.}
 {1107}{}{Você tem um vício em drogas. Se você não tomar Psycho numa agenda regular, você sofrerá, Se você o fizer, outros sofrerão.}
 {1108}{}{Seu corpo viciou em Radaway. Embora não seja uma ameaça a vida, você precisa tomá-lo regularmente.}
 {1109}{}{Você tem um problema com álcool. Realmente, você tem muitos problemas com o seu hábito de beber.}
