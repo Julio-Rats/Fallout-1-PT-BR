@@ -1,0 +1,2 @@
+{100}{}{Está quebrado.}
+{101}{}{Você encontra algumas tampas de garrafa antigas.}
