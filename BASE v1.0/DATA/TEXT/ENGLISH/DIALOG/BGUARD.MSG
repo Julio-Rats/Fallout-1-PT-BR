@@ -1,0 +1,8 @@
+{100}{}{Você vê um guarda.}
+{101}{}{Eu trabalho para o Barterman.}
+{102}{}{Tem rosquinhas?}
+{103}{}{Se você quebrar, você compra!}
+{104}{}{Ladrões de lojas serão mortos!}
+{105}{}{Você vai comprar alguma coisa? Talvez neste século?}
+{106}{}{Não posso lutar contra Rad Scorpions sem essas coisas.}
+{107}{}{Eu trabalho para o Barterman.}

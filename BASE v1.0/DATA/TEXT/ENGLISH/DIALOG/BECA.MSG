@@ -1,0 +1,19 @@
+{100}{}{Você vê Jade.}
+{101}{}{Você vê Beca.}
+{102}{}{}
+{103}{}{}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você vê um membro dos Blades.}
+{106}{}{Você acha que podem ser Books.}
+{107}{}{Você acha que pode ser Scars.}
+{108}{}{Você acha que pode ser Gunner.}
+{109}{}{Você acha que pode ser Twitch.}
+{110}{}{Você acha que pode ser Hammer.}
+{111}{}{Você acha que pode ser Razor.}
+{112}{}{Estes são dormitórios. Agora saia daqui antes que eu
+ chute sua bunda.}
+{113}{}{Experimente.}
+{114}{}{Desculpe por isso. Adeus.}
+{115}{}{Posso dormir aqui?}
+{116}{}{Não. Estes são para Blades reais, não para algum covarde.}
+{117}{}{Ei, mano! E aí? Fique aqui se precisar de um lugar seguro.}
